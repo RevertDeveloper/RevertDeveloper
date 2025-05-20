@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/TuUsuario"><img src="https://img.shields.io/github/followers/TuUsuario?label=GitHub&style=social" alt="GitHub" /></a>
-  <a href="mailto:revert.developer@gmail.com"><img src="https://img.shields.io/badge/email-revert.developer@gmail.com-red?logo=gmail&style=flat-square" alt="Contacto por email"></a>
+  <a href="mailto:revert.developer@gmail.com"><img src="https://img.shields.io/badge/email-revert.developer@gmail.com-333?logo=gmail&style=flat-square" alt="Contacto por email"></a>
 </p>
 
 ## 🚀 Sobre mí
