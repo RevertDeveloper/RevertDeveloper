@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TuUsuario"><img src="https://img.shields.io/github/followers/TuUsuario?label=GitHub&style=social" alt="GitHub" /></a>
+  <a href="https://github.com/RevertDeveloper"><img src="https://img.shields.io/github/followers/RevertDeveloper?label=GitHub&style=social" alt="GitHub" /></a>
   <a href="mailto:revert.developer@gmail.com"><img src="https://img.shields.io/badge/email-revert.developer@gmail.com-333?logo=gmail&style=flat-square" alt="Contacto por email"></a>
 </p>
 
@@ -57,14 +57,15 @@ Hoy, combino mi amor por el código con una mente inquieta que busca entender, a
   - Bolt.new (Stackblitz) [![Bolt.new](https://img.shields.io/badge/Bolt.new-FFCC00?style=flat&logo=stackblitz&logoColor=black)](https://bolt.new/)
 
 
-## 🧰 Herramientas que manejo
+## 🧰 Herramientas
 
 - 📋 **TurboScribe** (transcripción de audio/video) [![TurboScribe](https://img.shields.io/badge/TurboScribe-4A90E2?style=flat)](https://turboscribe.ai/es/)
 - 💸 **Coinbase Commerce** (pagos cripto en la web) [![Coinbase Commerce](https://img.shields.io/badge/Coinbase_Commerce-0052FF?style=flat&logo=coinbase&logoColor=white)](https://www.coinbase.com/es-es/commerce)
 - 🪞 **Same.new** (clonación rápida de webs) [![Same.new](https://img.shields.io/badge/Same.new-1ABC9C?style=flat)](https://same.new/)
 - 🧠 **LM Studio / Pinokio** (IA locales) [![LM Studio](https://img.shields.io/badge/LM_Studio-5A67D8?style=flat)](https://lmstudio.ai/) [![Pinokio](https://img.shields.io/badge/Pinokio-34D399?style=flat)](https://pinokio.computer/)
 - 🧭 **Micro** (diagramas de procesos) [![Miro](https://img.shields.io/badge/Miro-FFDA2B?style=flat&logo=miro&logoColor=050038)](https://miro.com/es/diagrama/)
-- 🔍 **Barcode Lookup / SerpApi / Spider** (búsqueda por código EAN) [![SerpApi](https://img.shields.io/badge/SerpApi-GoogleScraper-lightgrey)](https://serpapi.com/)
+- 🔍 **SerpApi** (Búsqueda por API de Google) [![SerpApi](https://img.shields.io/badge/SerpApi-GoogleScraper-lightgrey)](https://serpapi.com/)
+- 🔍 **Barcode Lookup / Spider** (Apis de busqueda de productos por código EAN)
 
 ---
 
