@@ -66,9 +66,10 @@ Hoy, combino mi amor por el código con una mente inquieta que busca entender, a
 - 💸 **Coinbase Commerce** (pagos cripto en la web) [![Coinbase Commerce](https://img.shields.io/badge/Coinbase_Commerce-0052FF?style=flat&logo=coinbase&logoColor=white)](https://www.coinbase.com/es-es/commerce)
 - 🪞 **Same.new** (clonación rápida de webs) [![Same.new](https://img.shields.io/badge/Same.new-1ABC9C?style=flat)](https://same.new/)
 - 🧠 **LM Studio / Pinokio** (IA locales) [![LM Studio](https://img.shields.io/badge/LM_Studio-5A67D8?style=flat)](https://lmstudio.ai/) [![Pinokio](https://img.shields.io/badge/Pinokio-34D399?style=flat)](https://pinokio.computer/)
+- ✒️ **Figma** (Colaboración de diseño en la nube.) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 - 🧭 **Micro** (diagramas de procesos) [![Miro](https://img.shields.io/badge/Miro-FFDA2B?style=flat&logo=miro&logoColor=050038)](https://miro.com/es/diagrama/)
 - 🔍 **SerpApi** (Búsqueda por API de Google) [![SerpApi](https://img.shields.io/badge/SerpApi-GoogleScraper-lightgrey)](https://serpapi.com/)
-- 🔍 **Barcode Lookup / Spider** (Apis de busqueda de productos por código EAN)
+- ❘❘❘❘❘❘❘ &nbsp;**Barcode Lookup / Spider** (Apis de busqueda de productos por código EAN)
 
 ---
 
@@ -116,6 +117,7 @@ Hoy, combino mi amor por el código con una mente inquieta que busca entender, a
 
 ## 🌍 Idiomas
 
+- Castellano y Valenciano **Nativo**
 - Inglés escrito: **Alto**  
 - Inglés hablado: **Medio**
 
@@ -123,8 +125,8 @@ Hoy, combino mi amor por el código con una mente inquieta que busca entender, a
 
 ## 💼 Experiencia laboral
 
-- 🔐 **Agente de seguros** en Ocaso (2023 y 2024)
-- 🍽️ **Jefe de cocina** en diversas empresas (2013 hasta 2021)
+- 🤝 **Agente de seguros** en Ocaso (2023 y 2024)
+- 🧑‍🍳 **Jefe de cocina** en diversas empresas (2013 hasta 2021)
 - 🥋 **Monitor de fitness y Artes marciales**
 
 ---
@@ -132,8 +134,8 @@ Hoy, combino mi amor por el código con una mente inquieta que busca entender, a
 ## 🎯 ¿Qué busco actualmente?
 
 Estoy abierto a nuevas oportunidades laborales, especialmente en proyectos relacionados con:
-- 🌐 Blockchain
-- 🧠 Inteligencia Artificial
+- ⛓️ Blockchain
+- 🤖 Inteligencia Artificial
 - 🐍 Python
 
 Tengo facilidad para adaptarme a cualquier stack o lenguaje. Si tu equipo necesita a alguien apasionado, proactivo y curioso, ¡hablemos!
