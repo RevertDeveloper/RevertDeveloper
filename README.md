@@ -17,7 +17,7 @@ Llevo toda mi vida rodeado de ordenadores, pero fue en 2017 cuando mi pasión po
 
 Desde entonces, he recorrido un camino autodidacta, formándome con libros, cursos y proyectos propios.
 En 2024 decidí llevarlo al siguiente nivel y comencé el **Máster en Desarrollo Web Full Stack** en la universidad online **ConquerBlocks**.
-* **Webs de la Universidad**: [![CONQUER](https://img.shields.io/badge/CONQUER-000000?style=flat\&logo=data:image/svg%2bxml)](https://www.conquerblocks.com/)&nbsp;&nbsp;[![BL](https://img.shields.io/badge/BL-FFD700?style=flat\&logo=data:image/svg%2bxml)](https://www.conquerblocks.com/agenda/fullstack/eu?utm_source=website&utm_medium=rebound&utm_campaign=conquerblocks/?utm_source=website)[![OC](https://img.shields.io/badge/OC-90EE90?style=flat\&logo=data:image/svg%2bxml)](https://www.conquerblocks.com/master-desarrollo-web-full-stack)[![KS](https://img.shields.io/badge/KS-87CEEB?style=flat\&logo=data:image/svg%2bxml)](https://app.conquerblocks.com/)
+* **Webs de la Universidad**: [![CONQUER](https://img.shields.io/badge/CONQUER-000000?style=flat\&logo=data:image/svg%2bxml)](https://www.conquerblocks.com/)&nbsp;[![BL](https://img.shields.io/badge/BL-FFD700?style=flat\&logo=data:image/svg%2bxml)](https://www.conquerblocks.com/agenda/fullstack/eu?utm_source=website&utm_medium=rebound&utm_campaign=conquerblocks/?utm_source=website)[![OC](https://img.shields.io/badge/OC-90EE90?style=flat\&logo=data:image/svg%2bxml)](https://www.conquerblocks.com/master-desarrollo-web-full-stack)[![KS](https://img.shields.io/badge/KS-87CEEB?style=flat\&logo=data:image/svg%2bxml)](https://app.conquerblocks.com/)
 
 
 Hoy, combino mi amor por el código con una mente inquieta que busca entender, automatizar y construir el futuro digital.
