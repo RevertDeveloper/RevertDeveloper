@@ -1,0 +1,366 @@
+<div align="center">
+
+# Carlos Revert
+
+### Full-Stack Developer · AI & RAG Engineer · Self-Hosted Infrastructure · Blockchain Specialist
+
+Desarrollo aplicaciones web funcionales e integro inteligencia artificial en productos, automatizaciones y procesos empresariales.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlosrevert.es)
+![Open to Work](https://img.shields.io/badge/Disponible_para-proyectos_y_oportunidades-2EA44F?style=for-the-badge)
+![Location](https://img.shields.io/badge/Ubicación-España-red?style=for-the-badge)
+
+**GitHub:** `pendiente de añadir` · **LinkedIn:** `pendiente de añadir` · **Email:** `pendiente de añadir`
+
+</div>
+
+---
+
+## Índice
+
+- [Perfil profesional](#perfil-profesional)
+- [Proyectos destacados](#proyectos-destacados)
+- [Stack tecnológico](#stack-tecnológico)
+- [Inteligencia artificial](#inteligencia-artificial)
+- [Infraestructura y despliegue](#infraestructura-y-despliegue)
+- [Blockchain y Web3](#blockchain-y-web3)
+- [Formación](#formación)
+- [Experiencia profesional previa](#experiencia-profesional-previa)
+- [Idiomas](#idiomas)
+- [Competencias profesionales](#competencias-profesionales)
+
+---
+
+## Perfil profesional
+
+Desarrollador **Full Stack** especializado en la integración de **inteligencia artificial**, sistemas **RAG**, automatización y despliegue de aplicaciones en infraestructura propia.
+
+Cuento con experiencia práctica desarrollando aplicaciones web operativas, conectando servicios con modelos de IA locales y cloud, administrando entornos contenerizados y configurando arquitecturas self-hosted sobre **Proxmox**, **Docker** y **Nginx Proxy Manager**.
+
+Mi trayectoria tecnológica comenzó hace más de diez años en el ecosistema **Blockchain y Web3**, donde evolucioné desde el aprendizaje autodidacta hasta la asesoría y formación especializada. Posteriormente orienté mi carrera hacia el desarrollo de software y, actualmente, me especializo en aplicar inteligencia artificial a productos web, procesos empresariales, asistentes conversacionales y automatizaciones.
+
+> **Datos destacados:** más de **12.000 normativas** y **600.000 artículos** integradas en un RAG jurídico, modelos locales de hasta **120B parámetros**, más de **20.000 transacciones blockchain** analizadas y aplicaciones reales desplegadas en infraestructura propia.
+
+---
+
+## Proyectos destacados
+
+Todos los proyectos forman parte de mi portfolio y se encuentran desplegados en mi servidor personal.
+
+### [IA Jurídica](https://carlosrevert.es)
+
+Sistema RAG jurídico orientado a la consulta de normativa española.
+
+- Base de conocimiento con más de **12.000 normativas**.
+- Búsqueda semántica mediante bases de datos vectoriales.
+- Procesamiento documental, chunking y recuperación contextual.
+- Integración de modelos de lenguaje para generación de respuestas fundamentadas.
+
+**Tecnologías:** Python · RAG · Qdrant/pgvector · LLM · APIs · Docker
+
+---
+
+### [CLARK — Generador de presupuestos](https://carlosrevert.es)
+
+Aplicación web para la venta de maquinaria de elevación y generación de presupuestos comerciales.
+
+- Catálogo de maquinaria y productos.
+- Generación estructurada de presupuestos.
+- Chatbot con conocimiento específico del negocio.
+- Integración de IA en la experiencia comercial.
+
+**Tecnologías:** Python · Django · JavaScript · IA conversacional · Docker
+
+---
+
+### [Transcriptor con IA local](https://carlosrevert.es)
+
+Aplicación de transcripción basada en modelos de reconocimiento de voz ejecutados localmente.
+
+- Transcripción mediante **Whisper**.
+- Procesamiento de audio con IA local.
+- Diseño orientado a múltiples flujos y casos de uso.
+- Privacidad y control del procesamiento al ejecutarse en infraestructura propia.
+
+**Tecnologías:** Python · Whisper · STT · IA local · Docker
+
+---
+
+### [Autopublika](https://carlosrevert.es)
+
+Sistema de planificación y generación de publicaciones de productos mediante EAN e inteligencia artificial.
+
+- Identificación y enriquecimiento de productos mediante códigos EAN.
+- Generación asistida de contenido.
+- Planificación de publicaciones.
+- Automatización de procesos relacionados con catálogos de producto.
+
+**Tecnologías:** Python · APIs · IA generativa · Automatización · Docker
+
+---
+
+<details>
+<summary><strong>Enfoque aplicado en los proyectos</strong></summary>
+
+- Arquitectura modular y mantenible.
+- Integración de frontend, backend, bases de datos y servicios externos.
+- Despliegue mediante contenedores.
+- Administración de dominios, subdominios, certificados SSL y proxy inverso.
+- Uso de modelos de IA locales y de proveedores cloud.
+- Control de versiones con Git y GitHub.
+- Documentación y preparación para revisión técnica.
+
+</details>
+
+---
+
+## Stack tecnológico
+
+### Desarrollo web
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+| Área | Tecnologías |
+|---|---|
+| **Backend** | Python, Django, Flask, Node.js |
+| **Frontend** | HTML5, CSS3, JavaScript, React, Vite |
+| **APIs** | Integración de APIs, servicios de IA y sistemas externos |
+| **Arquitectura** | Aplicaciones modulares, servicios contenerizados y entornos self-hosted |
+
+### Bases de datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+- **Relacionales:** MySQL, PostgreSQL y SQLite.
+- **Vectoriales:** Qdrant y pgvector.
+- **Administración y consulta:** DBeaver.
+- Diseño de sistemas orientados a recuperación semántica y aplicaciones RAG.
+
+### Herramientas y control de versiones
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+- Control de versiones mediante **Git y GitHub**.
+- Editor principal: **Visual Studio Code**.
+- Experiencia con herramientas de desarrollo asistido por IA:
+  - GitHub Copilot.
+  - OpenAI Codex.
+  - Claude Code.
+  - Antigravity.
+
+---
+
+## Inteligencia artificial
+
+### Integración de modelos y proveedores
+
+Experiencia avanzada conectando aplicaciones y flujos con APIs de:
+
+- OpenAI.
+- Anthropic.
+- Google.
+- OpenRouter.
+- xAI.
+- ElevenLabs.
+
+### Modelos locales
+
+Configuración, optimización y puesta en producción de modelos locales de hasta **120B parámetros**:
+
+- NVIDIA Nemotron: 14B, 30B y 120B.
+- Qwen 3, Qwen 3.5 y Qwen 3.6.
+- Gemma.
+- DeepSeek.
+- gpt-oss-120b.
+
+Experiencia seleccionando modelos, ajustando cuantización, contexto, memoria y backend de inferencia según los recursos disponibles y el caso de uso.
+
+### RAG, recuperación y procesamiento documental
+
+- Diseño de sistemas **Retrieval-Augmented Generation**.
+- Uso de Qdrant y pgvector como almacenes vectoriales.
+- Estrategias avanzadas de **chunking**.
+- Optimización de precisión, contexto y eficiencia de recuperación.
+- Ingesta, limpieza, segmentación e indexación documental.
+- Diseño de bases de conocimiento específicas para empresas y dominios especializados.
+
+### Voz, OCR y agentes conversacionales
+
+- Modelos **Speech-to-Text (STT)**.
+- Modelos **Text-to-Speech (TTS)**.
+- Whisper en local.
+- Integración de ElevenLabs.
+- Sistemas OCR con modelos de IA, Tesseract y herramientas similares.
+- Creación de asistentes telefónicos y agentes de WhatsApp.
+- Flujos conversacionales conectados con conocimiento real de empresas.
+
+### Automatización
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+
+- Creación y mantenimiento de flujos en **n8n** y **Make**.
+- Integración entre APIs, modelos de IA, aplicaciones y servicios externos.
+- Automatización de procesos de negocio, publicación, análisis y comunicación.
+
+---
+
+## Infraestructura y despliegue
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Conocimiento_teórico-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+- Dominio avanzado de **Docker** y despliegues contenerizados.
+- Administración de un servidor propio basado en **Proxmox**.
+- Despliegue y mantenimiento de aplicaciones web disponibles públicamente.
+- Ejecución de modelos de inteligencia artificial locales.
+- Configuración de IP, Dynamic DNS y acceso remoto.
+- Gestión de dominios, subdominios, certificados SSL y proxy inverso mediante **Nginx Proxy Manager**.
+- Conocimientos teóricos de **Kubernetes**.
+- Diseño de infraestructura para aplicaciones que dependen de servicios de IA locales.
+
+---
+
+## Blockchain y Web3
+
+Más de **diez años de experiencia** en el ecosistema Blockchain, comenzando de forma autodidacta y evolucionando hasta ofrecer asesorías y formaciones.
+
+### Áreas de experiencia
+
+- Finanzas descentralizadas (**DeFi**).
+- NFTs.
+- Minería y validación mediante **Proof of Work** y **Proof of Stake**.
+- Gestión de billeteras frías y configuraciones multifirma.
+- Contratos inteligentes con **Solidity**.
+- Desarrollo y experimentación en Ethereum y Sonic.
+- Uso de exchanges centralizados y descentralizados.
+- Seguridad, custodia y operativa de activos digitales.
+
+### Fiscalidad de criptoactivos
+
+Estudio profundo de la fiscalidad española aplicada a criptomonedas y activos digitales.
+
+- Preparación de declaraciones fiscales propias.
+- Análisis de más de **20.000 transacciones**.
+- Operativa distribuida entre más de **10 exchanges**.
+- Consolidación de movimientos procedentes de plataformas centralizadas y descentralizadas.
+- Interpretación y organización de operaciones en un entorno regulatorio todavía en evolución.
+
+---
+
+## Formación
+
+### Máster en Desarrollo Web Full Stack
+
+**Conquer Blocks · Formación online**
+
+Formación orientada al desarrollo completo de aplicaciones web, cubriendo frontend, backend, bases de datos, control de versiones, despliegue y desarrollo de proyectos funcionales.
+
+**Fecha:** `pendiente de añadir`
+
+### Formación complementaria
+
+- Cursos de inglés.
+- Formación continua en inteligencia artificial, desarrollo de software, infraestructura y automatización.
+- Aprendizaje autodidacta continuado en Blockchain, Web3 y fiscalidad de criptoactivos.
+
+> Este apartado se ampliará con cursos, certificaciones, fechas y contenidos específicos.
+
+---
+
+## Experiencia profesional previa
+
+### Jefe de cocina
+
+**10 años de experiencia**
+
+- Dirección y coordinación de equipos.
+- Organización del trabajo y asignación de responsabilidades.
+- Control de stock y gestión de género.
+- Planificación operativa.
+- Resolución de incidencias en entornos de alta exigencia.
+- Responsabilidad sobre el funcionamiento diario del equipo.
+
+### Agente de seguros
+
+**Ocaso · 2 años**
+
+- Atención y asesoramiento al cliente.
+- Gestión comercial.
+- Comunicación de productos y coberturas.
+- Desarrollo de relaciones de confianza con clientes.
+
+### Monitor de fitness
+
+- Planificación y dirección de actividades físicas.
+- Comunicación y motivación de grupos.
+- Adaptación del entrenamiento a distintos perfiles.
+
+### Monitor de Taekwondo
+
+- Formación técnica y acompañamiento de alumnos.
+- Gestión de grupos.
+- Transmisión de disciplina, constancia y mejora progresiva.
+
+---
+
+## Idiomas
+
+| Idioma | Nivel |
+|---|---|
+| **Castellano** | Nativo |
+| **Valenciano** | Nativo |
+| **Inglés escrito** | Alto |
+| **Inglés oral** | Intermedio |
+
+---
+
+## Competencias profesionales
+
+- Aprendizaje autónomo y adaptación tecnológica.
+- Pensamiento analítico y resolución de problemas.
+- Liderazgo y coordinación de equipos.
+- Gestión de proyectos multidisciplinares.
+- Capacidad para transformar una necesidad de negocio en una solución técnica.
+- Mentalidad orientada a producto y mejora continua.
+- Documentación, investigación y aprendizaje de nuevas herramientas.
+- Experiencia combinando tecnología, negocio, operaciones y atención al cliente.
+
+---
+
+## Objetivo profesional
+
+Continuar desarrollándome como profesional especializado en **desarrollo Full Stack e integración de inteligencia artificial**, participando en proyectos donde pueda combinar software, automatización, modelos de lenguaje, sistemas RAG e infraestructura self-hosted.
+
+Me interesa colaborar en equipos y proyectos que valoren la autonomía, el aprendizaje continuo, la experimentación técnica y la aplicación práctica de nuevas tecnologías.
+
+---
+
+<div align="center">
+
+### Contacto
+
+🌐 [carlosrevert.es](https://carlosrevert.es)  
+💼 LinkedIn: `pendiente de añadir`  
+💻 GitHub: `pendiente de añadir`  
+✉️ Email: `pendiente de añadir`
+
+---
+
+**Disponible para proyectos, colaboraciones y oportunidades profesionales.**
+
+</div>
