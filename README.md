@@ -30,32 +30,76 @@ Desarrollo aplicaciones web funcionales e integro inteligencia artificial en pro
 
 ---
 
-## Perfil profesional
+## 🚀 Perfil profesional
 
-Desarrollador **Full Stack** especializado en la integración de **inteligencia artificial**, sistemas **RAG**, automatización y despliegue de aplicaciones en infraestructura propia.
+Desarrollador **Full Stack** especializado en **Inteligencia Artificial**, **Retrieval-Augmented Generation (RAG)**, automatización de procesos e infraestructura **Self-Hosted**.
 
-Cuento con experiencia práctica desarrollando aplicaciones web operativas, conectando servicios con modelos de IA locales y cloud, administrando entornos contenerizados y configurando arquitecturas self-hosted sobre **Proxmox**, **Docker** y **Nginx Proxy Manager**.
-
-Mi trayectoria tecnológica comenzó hace más de diez años en el ecosistema **Blockchain y Web3**, donde evolucioné desde el aprendizaje autodidacta hasta la asesoría y formación especializada. Posteriormente orienté mi carrera hacia el desarrollo de software y, actualmente, me especializo en aplicar inteligencia artificial a productos web, procesos empresariales, asistentes conversacionales y automatizaciones.
-
-> **Datos destacados:** más de **12.000 normativas** y **600.000 artículos** integradas en un RAG jurídico, modelos locales de hasta **120B parámetros**, más de **20.000 transacciones blockchain** analizadas y aplicaciones reales desplegadas en infraestructura propia.
+Diseño, desarrollo y despliego aplicaciones completas de principio a fin, integrando **backend**, **frontend**, **bases de datos**, **modelos de IA**, **APIs**, **Docker**, **redes** y demás.
 
 ---
 
-## Proyectos destacados
+### Evolución profesional
+
+Mi trayectoria tecnológica comenzó en **2018** dentro del ecosistema **Blockchain y Web3**, donde desarrollé un perfil eminentemente autodidacta basado en la investigación, la experimentación y la resolución de problemas reales.
+
+Durante varios años profundicé en tecnologías descentralizadas como **DeFi**, **NFTs**, **Smart Contracts**, **Solidity**, sistemas **Proof of Work** y **Proof of Stake**, seguridad mediante billeteras multifirma y operativa avanzada con exchanges centralizados y descentralizados. Esta experiencia me permitió ofrecer **asesoramiento técnico** y formación especializada en el sector.
+
+Paralelamente adquirí un conocimiento avanzado sobre la **fiscalidad española aplicada a los criptoactivos**, analizando e interpretando una normativa todavía poco desarrollada para gestionar correctamente operativas complejas con decenas de miles de movimientos distribuidos entre múltiples plataformas.
+
+Con el objetivo de ampliar mi perfil técnico, decidí especializarme profesionalmente en el **desarrollo de software**, completando un **Máster en Desarrollo Web Full Stack** y orientando posteriormente mi carrera hacia la **Inteligencia Artificial aplicada**.
+
+Actualmente desarrollo aplicaciones que combinan **LLMs**, **sistemas RAG**, **bases de datos vectoriales**, **automatización**, **agentes conversacionales**, **procesamiento documental** e **infraestructura propia**, creando soluciones completas que abarcan desde el diseño de la arquitectura hasta su despliegue y mantenimiento en producción.
+
+---
+
+## 📊 Highlights
+
+|                        |                                                                                                    |
+| :--------------------- | :------------------------------------------------------------------------------------------------- |
+| ⚖️ **RAG Jurídico**    | Más de **12.000 normativas españolas**, **600.000 artículos** y **1.000.000+ vectores** indexados. |
+| 🧠 **IA Local**        | Instalación, configuración y optimización de modelos de hasta **120B parámetros**.                 |
+| 🌐 **Despliegue**      | Aplicaciones desarrolladas y publicadas íntegramente sobre infraestructura propia.                 |
+| 🐳 **Infraestructura** | Administración avanzada de **Docker**, **Proxmox**, redes y servicios Self-Hosted.                 |
+| 🔍 **RAG**             | Diseño de pipelines completos de ingestión, chunking avanzado, embeddings y recuperación selectiva.|
+| 🔗 **Blockchain**      | Más de **20.000 transacciones** realizadas y analizadas entre múltiples redes y exchanges.         |
+| 🤖 **Hermes Agent**    | Implementación y configuración de Hermes Agent hasta llegar a desbloquear insignias **Olympian**   |
+
+> *Mi objetivo profesional es diseñar y construir productos digitales donde la Inteligencia Artificial no sea un simple añadido, sino una ventaja competitiva real. Combino desarrollo Full Stack, infraestructura, automatización y arquitectura de software para crear soluciones robustas, escalables, modulares y orientadas a negocio. Mi enfoque se apoya en dos principios fundamentales: una Ingeniería de Prompts precisa y una Ingeniería de Contexto eficiente, capaces de transformar modelos de IA en sistemas útiles, fiables y preparados para producción.*
+
+---
+
+## Proyectos personales
 
 Todos los proyectos forman parte de mi portfolio y se encuentran desplegados en mi servidor personal.
 
-### [IA Jurídica](https://carlosrevert.es)
+### [Home](https://carlosrevert.es)
+
+Página principal de presentación.
+
+- Presentación de mi perfil.
+- Exposición de mi portfolio.
+
+---
+
+### [IA Jurídica](https://iajuridica.carlosrevert.es)
 
 Sistema RAG jurídico orientado a la consulta de normativa española.
 
-- Base de conocimiento con más de **12.000 normativas**.
-- Búsqueda semántica mediante bases de datos vectoriales.
-- Procesamiento documental, chunking y recuperación contextual.
+- Base de conocimiento con más de **600.000 artículos**. Toda la legislación consolidada Española.
+- **PostgreSQL + Qdrant** . Uso de Qdrant como puntero de vectores y recuperamos los artículos relevantes almacenados en PostgreSQL.
+- Modelo de **embedding de 1024** dimensiones : (https://huggingface.co/dariolopez/bge-m3-es-legal-tmp-6) (fine-tuned para derecho español).
+- **Intervención de la Query** entrante para Juridificarla y generar palabras clave que mejoran los vectores.
+- Estrategia de **limitación de candidatos Top-K** para obtener suficientes artículos, pero no demasiados.
+- **Traducción** de la Query y la respuesta. Cuando entra se interviene para pasarla a español y vectorizar correctamente. El resultado de traduce a el idioma de entrada.
+- Presentación de enlaces a **fuentes oficiales online del BOE** de todos los artículos utilizados.
+- Chunking personalizado y estrictamente diseñado para mantener contexto.
+- Recuperación de artículos enteros para comprensión correcta del significado completo del texto.
 - Integración de modelos de lenguaje para generación de respuestas fundamentadas.
+- Diseño de FrontEnd desde 0 acorde a las necesidades especiales del producto.
 
-**Tecnologías:** Python · RAG · Qdrant/pgvector · LLM · APIs · Docker
+**Tecnologías:** Python · RAG · Qdrant · PostgreSQL · LLM · APIs · Docker · Embedding · Chunking
+
+> Aquí el **"readme.md"** del proyecto.
 
 ---
 
