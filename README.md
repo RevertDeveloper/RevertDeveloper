@@ -1,16 +1,15 @@
 <div align="center">
 
-# Carlos Revert
+![Mi Logo de Presentación](carlos_revert_pagan.png)
 
 ### Full-Stack Developer · AI & RAG Engineer · Self-Hosted Infrastructure · Blockchain Specialist
 
 Desarrollo aplicaciones web funcionales e integro inteligencia artificial en productos, automatizaciones y procesos empresariales.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlosrevert.es)
-![Open to Work](https://img.shields.io/badge/Disponible_para-proyectos_y_oportunidades-2EA44F?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Ubicación-España-red?style=for-the-badge)
 
-**GitHub:** `pendiente de añadir` · **LinkedIn:** `pendiente de añadir` · **Email:** `pendiente de añadir`
+**LinkedIn:** `pendiente de añadir` · **Email:** `revertus@protonmail.com`
 
 </div>
 
@@ -288,32 +287,28 @@ Formación orientada al desarrollo completo de aplicaciones web, cubriendo front
 
 **10 años de experiencia**
 
-- Dirección y coordinación de equipos.
+- Dirección y coordinación de equipo en hostelería.
 - Organización del trabajo y asignación de responsabilidades.
 - Control de stock y gestión de género.
-- Planificación operativa.
-- Resolución de incidencias en entornos de alta exigencia.
+- Resolución de incidencias e imprevistos.
 - Responsabilidad sobre el funcionamiento diario del equipo.
 
 ### Agente de seguros
 
-**Ocaso · 2 años**
+**Seguros Ocaso · 2 años**
 
 - Atención y asesoramiento al cliente.
-- Gestión comercial.
+- Gestión comercial cara a cara.
 - Comunicación de productos y coberturas.
 - Desarrollo de relaciones de confianza con clientes.
 
-### Monitor de fitness
+### Monitor de Fitness y Artes Marciales
 
 - Planificación y dirección de actividades físicas.
 - Comunicación y motivación de grupos.
 - Adaptación del entrenamiento a distintos perfiles.
-
-### Monitor de Taekwondo
-
-- Formación técnica y acompañamiento de alumnos.
-- Gestión de grupos.
+- Cinturón Negro de TaeKwonDo.
+- Nutrición y suplementación deportiva.
 - Transmisión de disciplina, constancia y mejora progresiva.
 
 ---
@@ -356,8 +351,7 @@ Me interesa colaborar en equipos y proyectos que valoren la autonomía, el apren
 
 🌐 [carlosrevert.es](https://carlosrevert.es)  
 💼 LinkedIn: `pendiente de añadir`  
-💻 GitHub: `pendiente de añadir`  
-✉️ Email: `pendiente de añadir`
+✉️ Email: `revertus@protonmail.com`
 
 ---
 
