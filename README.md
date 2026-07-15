@@ -72,7 +72,7 @@ Actualmente desarrollo aplicaciones que combinan **LLMs**, **sistemas RAG**, **b
 
 Todos los proyectos forman parte de mi portfolio y se encuentran desplegados en mi servidor personal.
 
-### [Home](https://carlosrevert.es)
+### [Home](https://carlosrevert.es) (https://carlosrevert.es)
 
 Página principal de presentación.
 
@@ -81,7 +81,7 @@ Página principal de presentación.
 
 ---
 
-### [IA Jurídica](https://iajuridica.carlosrevert.es)
+### [IA Jurídica](https://iajuridica.carlosrevert.es) (https://iajuridica.carlosrevert.es)
 
 Sistema RAG jurídico orientado a la consulta de normativa española.
 
@@ -95,32 +95,39 @@ Sistema RAG jurídico orientado a la consulta de normativa española.
 - Chunking personalizado y estrictamente diseñado para mantener contexto.
 - Recuperación de artículos enteros para comprensión correcta del significado completo del texto.
 - Integración de modelos de lenguaje para generación de respuestas fundamentadas.
+- Persistencia de historial via **localStorage** y **persistencia de contexto** en conversación de las últimas 6 iteraciones.
 - Diseño de FrontEnd desde 0 acorde a las necesidades especiales del producto.
 
-**Tecnologías:** Python · RAG · Qdrant · PostgreSQL · LLM · APIs · Docker · Embedding · Chunking
+**Tecnologías:** Python · TypeScript · Qdrant · PostgreSQL · LLM · APIs · Docker · Embedding · Chunking · Vite · Tailwind · React
 
 > Aquí el **"readme.md"** del proyecto.
 
 ---
 
-### [CLARK — Generador de presupuestos](https://carlosrevert.es)
+### [CLARK — Generador de presupuestos](https://clark.carlosrevert.es) (https://clark.carlosrevert.es)
 
-Aplicación web para la venta de maquinaria de elevación y generación de presupuestos comerciales.
+Plataforma B2B de catalogo, busqueda, recomendacion y venta asistida para maquinaria de elevacion.
+Al ser productos de alto valor no hacemos venta online, sino que generamos el presupuesto para que un comercial se ponga en contacto.
 
-- Catálogo de maquinaria y productos.
-- Generación estructurada de presupuestos.
-- Chatbot con conocimiento específico del negocio.
-- Integración de IA en la experiencia comercial.
+- Catálogo de elevadores, carretillas y traspaletas de CLARK con todo detalle de cada producto.
+- Comparador de productos (2 o 3 simultáneamente) con marcas de vencedor. Responsive.
+- Carrito y generación de presupuestos.
+- Chatbot con conocimiento completo de todos los productos y la empresa en System Prompt + RAG técnico.
+- Chatbot con navegación autónoma de paginas web en función de la pregunta del cliente. (Si le preguntas por un producto al chatbot es capaz de abrirte automáticamente la pagina de dicho producto, hacer comparaciones etc...)
 
-**Tecnologías:** Python · Django · JavaScript · IA conversacional · Docker
+**Tecnologías:** Python · TypeScript · LLM Local · Docker · PostgreSQL + PgVector · Next · React · Tailwind
 
 ---
 
-### [Transcriptor con IA local](https://carlosrevert.es)
+### [Transcriptor con IA local](https://transcriptor.carlosrevert.es) (https://transcriptor.carlosrevert.es)
 
-Aplicación de transcripción basada en modelos de reconocimiento de voz ejecutados localmente.
+Plataforma web para grabar, subir y procesar audio con IA, devolviendo informes estructurados según el modo elegido. El flujo combina una interfaz React, una API en FastAPI, persistencia en PostgreSQL, una cola de trabajo en segundo plano y proveedores externos de STT y LLM para transformar audio en resultados útiles y fáciles de compartir.
 
-- Transcripción mediante **Whisper**.
+- Transcripción mediante **Whisper** de audios que pueden ser de horas.
+- Grabación directa desde la app, previa selección del tipo de modo. (Con opciones de pausa, play, stop y cancelar)
+- Opción de adjuntar audio (previa petición de contraseña por mayor seguridad) y con autoconversión de formato a WAV y revisión de seguridad antes de abrir el archivo.
+- Almacenamiento de informes por usuario en base de datos. Con opción de cambio a localStorage para mayor privacidad.
+- Los audios se guardan en servidor durante 24 horas. El usuario puede descargarlos durante este plazo, luego serán eliminados.
 - Procesamiento de audio con IA local.
 - Diseño orientado a múltiples flujos y casos de uso.
 - Privacidad y control del procesamiento al ejecutarse en infraestructura propia.
@@ -129,7 +136,7 @@ Aplicación de transcripción basada en modelos de reconocimiento de voz ejecuta
 
 ---
 
-### [Autopublika](https://carlosrevert.es)
+### [Autopublika](https://autopublika.carlosrevert.es) (https://autopublika.carlosrevert.es)
 
 Sistema de planificación y generación de publicaciones de productos mediante EAN e inteligencia artificial.
 
