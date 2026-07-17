@@ -40,7 +40,7 @@ Diseño, desarrollo y despliego aplicaciones completas de principio a fin, integ
 
 ### Evolución profesional
 
-Mi trayectoria tecnológica comenzó en **2018** dentro del ecosistema **Blockchain y Web3**, donde desarrollé un perfil eminentemente autodidacta basado en la investigación, la experimentación y la resolución de problemas reales.
+Mi trayectoria tecnológica comenzó en **2018** dentro del ecosistema **Blockchain y Web3**, donde desarrollé un perfil autodidacta basado en la investigación, la experimentación y la resolución de problemas reales.
 
 Durante varios años profundicé en tecnologías descentralizadas como **DeFi**, **NFTs**, **Smart Contracts**, **Solidity**, sistemas **Proof of Work** y **Proof of Stake**, seguridad mediante billeteras multifirma y operativa avanzada con exchanges centralizados y descentralizados. Esta experiencia me permitió ofrecer **asesoramiento técnico** y formación especializada en el sector.
 
@@ -56,7 +56,7 @@ Actualmente desarrollo aplicaciones que combinan **LLMs**, **sistemas RAG**, **b
 
 |                        |                                                                                                    |
 | :--------------------- | :------------------------------------------------------------------------------------------------- |
-| ⚖️ **RAG Jurídico**    | Más de **12.000 normativas españolas**, **600.000 artículos** y **1.000.000+ vectores** indexados. |
+| ⚖️ **RAG Jurídico**    | Más de **12.000 normativas españolas**, **600.000 artículos** y **700.000 vectores** indexados.    |
 | 🧠 **IA Local**        | Instalación, configuración y optimización de modelos de hasta **120B parámetros**.                 |
 | 🌐 **Despliegue**      | Aplicaciones desarrolladas y publicadas íntegramente sobre infraestructura propia.                 |
 | 🐳 **Infraestructura** | Administración avanzada de **Docker**, **Proxmox**, redes y servicios Self-Hosted.                 |
@@ -81,7 +81,7 @@ Página principal de presentación.
 
 ---
 
-### [IA Jurídica](https://iajuridica.carlosrevert.es) (https://iajuridica.carlosrevert.es)
+### [IA Jurídica](https://juridia.carlosrevert.es) (https://juridia.carlosrevert.es)
 
 Sistema RAG jurídico orientado a la consulta de normativa española.
 
@@ -144,8 +144,9 @@ Sistema de planificación y generación de publicaciones de productos mediante E
 - Generación asistida de contenido.
 - Planificación de publicaciones.
 - Automatización de procesos relacionados con catálogos de producto.
+- Igual de potente para Productos, como para Servicios.
 
-**Tecnologías:** Python · APIs · IA generativa · Automatización · Docker
+**Tecnologías:** Python · API referente a código EAN e imagenes · Automatización
 
 ---
 
@@ -320,15 +321,18 @@ Estudio profundo de la fiscalidad española aplicada a criptomonedas y activos d
 
 Formación orientada al desarrollo completo de aplicaciones web, cubriendo frontend, backend, bases de datos, control de versiones, despliegue y desarrollo de proyectos funcionales.
 
-**Fecha:** `pendiente de añadir`
+**Fecha:** `2024 a 2026 full time`
+
+### Formación en curso
+
+- Máster en Inteligencia Artificial
+- Máster en Desarrollo Blockchain
+- Curso de Inglés Profesional en ConquerBlocks
 
 ### Formación complementaria
 
-- Cursos de inglés.
+- Cursos de inglés de atención al cliente. 
 - Formación continua en inteligencia artificial, desarrollo de software, infraestructura y automatización.
-- Aprendizaje autodidacta continuado en Blockchain, Web3 y fiscalidad de criptoactivos.
-
-> Este apartado se ampliará con cursos, certificaciones, fechas y contenidos específicos.
 
 ---
 
