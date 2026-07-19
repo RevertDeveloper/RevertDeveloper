@@ -1,6 +1,5 @@
 <div align="center">
-<img src="carlos_revert_pagan.png" alt="Logotipo de Carlos Revert Pagán">
-
+<img src="carlos_revert_pagan.png" alt="Logotipo de Carlos Revert Pagán" width="180">
 <h3>Full-Stack Developer especializado en IA aplicada, sistemas RAG e infraestructura self-hosted</h3>
 <p>
 Diseño, desarrollo y despliego productos digitales completos, integrando software, inteligencia artificial, automatización e infraestructura.
@@ -23,22 +22,22 @@ Diseño, desarrollo y despliego productos digitales completos, integrando softwa
 </a>
 -->
 <p>
-<a href="#perfil-profesional">Perfil</a> ·
-<a href="#proyectos-destacados">Proyectos</a> ·
-<a href="#capacidades-técnicas">Capacidades</a> ·
-<a href="#stack-tecnológico">Stack</a> ·
-<a href="#trayectoria-profesional">Trayectoria</a> ·
-<a href="#contacto">Contacto</a>
+<a href="#-perfil-profesional">Perfil</a> ·
+<a href="#-proyectos-destacados">Proyectos</a> ·
+<a href="#-capacidades-técnicas">Capacidades</a> ·
+<a href="#-stack-tecnológico">Stack</a> ·
+<a href="#-trayectoria-profesional">Trayectoria</a> ·
+<a href="#-contacto">Contacto</a>
 </p>
 </div>
 
 ⸻
 
-Perfil profesional
+👨‍💻 Perfil profesional
 
 Soy desarrollador de software Full Stack especializado en la creación de productos que integran inteligencia artificial, sistemas Retrieval-Augmented Generation, automatización de procesos e infraestructura self-hosted.
 
-Trabajo sobre el ciclo completo de desarrollo:
+Trabajo sobre el ciclo completo de desarrollo
 
 * Análisis del problema y definición de requisitos.
 * Diseño de producto y arquitectura.
@@ -54,7 +53,7 @@ Construyo productos digitales completos en los que software, datos, IA e infraes
 
 ⸻
 
-Impacto y resultados
+📊 Impacto y resultados
 
 Área	Resultado
 RAG jurídico	Más de 12.000 disposiciones, 600.000 artículos y aproximadamente 700.000 vectores indexados.
@@ -67,7 +66,7 @@ Automatización	Integración de agentes, modelos de IA, APIs y flujos automatiza
 
 ⸻
 
-Proyectos destacados
+🚀 Proyectos destacados
 
 ⚖️ Juridia — Sistema RAG para normativa española
 
@@ -218,7 +217,7 @@ Añadir enlace al repositorio o documentación:
 
 ⸻
 
-Otros proyectos
+🧩 Otros proyectos
 
 Proyecto	Descripción	Enlace
 Autopublika	Sistema de identificación de productos mediante EAN, enriquecimiento de información, generación asistida de contenido y planificación de publicaciones. Aplicable tanto a productos como a servicios.	Ver aplicación⁠￼
@@ -247,9 +246,9 @@ Añadir cuando la captura esté disponible:
 
 ⸻
 
-Capacidades técnicas
+🛠️ Capacidades técnicas
 
-Inteligencia artificial aplicada
+🧠 Inteligencia artificial aplicada
 
 * Integración de modelos de lenguaje mediante APIs y servicios locales.
 * Diseño de prompts de sistema, flujos de herramientas y respuestas estructuradas.
@@ -262,7 +261,7 @@ Inteligencia artificial aplicada
 * Whisper ejecutado en infraestructura propia.
 * OCR con modelos de visión, Tesseract y herramientas especializadas.
 
-Sistemas RAG y procesamiento documental
+🔎 Sistemas RAG y procesamiento documental
 
 * Diseño de arquitecturas Retrieval-Augmented Generation.
 * Ingesta, limpieza y normalización documental.
@@ -275,7 +274,7 @@ Sistemas RAG y procesamiento documental
 * Recuperación con trazabilidad hacia las fuentes.
 * Bases de conocimiento especializadas por empresa o dominio.
 
-Desarrollo de software
+💻 Desarrollo de software
 
 * Desarrollo de aplicaciones Full Stack.
 * APIs REST y comunicación entre servicios.
@@ -287,7 +286,7 @@ Desarrollo de software
 * Gestión de configuración mediante variables de entorno.
 * Control de versiones y documentación técnica.
 
-Infraestructura y operaciones
+🐳 Infraestructura y operaciones
 
 * Administración de entornos Linux.
 * Despliegues contenerizados con Docker y Docker Compose.
@@ -301,7 +300,7 @@ Infraestructura y operaciones
 * Infraestructura para ejecutar modelos de IA locales.
 * Conocimientos teóricos de Kubernetes.
 
-Automatización y agentes
+🤖 Automatización y agentes
 
 * Flujos de automatización mediante n8n y Make.
 * Integración entre aplicaciones, modelos, APIs y servicios.
@@ -312,7 +311,7 @@ Automatización y agentes
 
 ⸻
 
-Stack tecnológico
+⚙️ Stack tecnológico
 
 Tecnologías principales
 
@@ -331,7 +330,7 @@ Desarrollo asistido por IA	OpenAI Codex, GitHub Copilot, Claude Code y Antigravi
 
 ⸻
 
-Modelos y proveedores de inteligencia artificial
+🧠 Modelos y proveedores de inteligencia artificial
 
 Proveedores integrados
 
@@ -365,7 +364,7 @@ He trabajado con modelos de hasta 120B parámetros, ajustando:
 
 ⸻
 
-Trayectoria profesional
+📈 Trayectoria profesional
 
 Mi trayectoria tecnológica comenzó en 2018 dentro del ecosistema Blockchain y Web3, donde desarrollé un perfil autodidacta basado en la investigación, la experimentación y la resolución de problemas reales.
 
@@ -388,7 +387,7 @@ Esta evolución me permite abordar un producto desde tres perspectivas complemen
 
 ⸻
 
-Blockchain y Web3
+⛓️ Blockchain y Web3
 
 Experiencia en Blockchain y Web3 desde 2018, inicialmente de forma autodidacta y posteriormente mediante asesoramiento técnico y formación.
 
@@ -417,11 +416,12 @@ Experiencia en el análisis y organización de operativas complejas relacionadas
 
 ⸻
 
-Formación
+🎓 Formación
 
 Máster en Desarrollo Web Full Stack
 
 Conquer Blocks · Formación online
+
 Periodo: 2024–2026 · Dedicación completa
 
 Formación orientada al desarrollo integral de aplicaciones web:
@@ -455,7 +455,7 @@ Mantengo una formación permanente en:
 
 ⸻
 
-Experiencia profesional complementaria
+💼 Experiencia profesional complementaria
 
 <details>
 <summary><strong>Ver experiencia anterior y competencias transferibles</strong></summary>
@@ -504,7 +504,7 @@ Esta experiencia me ha permitido desarrollar competencias directamente aplicable
 
 ⸻
 
-Idiomas
+🌍 Idiomas
 
 Idioma	Nivel
 Castellano	Nativo
@@ -514,7 +514,7 @@ Inglés oral	Intermedio
 
 ⸻
 
-Competencias profesionales
+🎯 Competencias profesionales
 
 * Aprendizaje autónomo y adaptación tecnológica.
 * Pensamiento analítico.
@@ -530,7 +530,7 @@ Competencias profesionales
 
 ⸻
 
-Contacto
+📬 Contacto
 
 Estoy interesado en proyectos y oportunidades relacionados con:
 
@@ -543,9 +543,7 @@ Estoy interesado en proyectos y oportunidades relacionados con:
 * Productos digitales orientados a negocio.
 
 <div align="center">
-
-Hablemos
-
+<h3>Hablemos</h3>
 <a href="https://carlosrevert.es">
   <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
