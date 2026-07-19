@@ -1,415 +1,566 @@
 <div align="center">
+<img src="carlos_revert_pagan.png" alt="Logotipo de Carlos Revert Pagán">
 
-![Mi Logo de Presentación](carlos_revert_pagan.png)
-
-### Full-Stack Developer · AI & RAG Engineer · Self-Hosted Infrastructure · Blockchain Specialist
-
-Desarrollo aplicaciones web funcionales e integro inteligencia artificial en productos, automatizaciones y procesos empresariales.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlosrevert.es)
-![Location](https://img.shields.io/badge/Ubicación-España-red?style=for-the-badge)
-
-**LinkedIn:** `pendiente de añadir` · **Email:** `revertus@protonmail.com`
-
+<h3>Full-Stack Developer especializado en IA aplicada, sistemas RAG e infraestructura self-hosted</h3>
+<p>
+Diseño, desarrollo y despliego productos digitales completos, integrando software, inteligencia artificial, automatización e infraestructura.
+</p>
+<p>
+<a href="https://carlosrevert.es">
+  <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://github.com/RevertDeveloper">
+  <img src="https://img.shields.io/badge/GitHub-RevertDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:revertus@protonmail.com">
+  <img src="https://img.shields.io/badge/Email-revertus%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+</a>
+<img src="https://img.shields.io/badge/Ubicación-España-C60B1E?style=for-the-badge" alt="Ubicación: España">
+</p>
+<!-- Añadir cuando esté disponible:
+<a href="URL_DE_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+-->
+<p>
+<a href="#perfil-profesional">Perfil</a> ·
+<a href="#proyectos-destacados">Proyectos</a> ·
+<a href="#capacidades-técnicas">Capacidades</a> ·
+<a href="#stack-tecnológico">Stack</a> ·
+<a href="#trayectoria-profesional">Trayectoria</a> ·
+<a href="#contacto">Contacto</a>
+</p>
 </div>
 
----
+⸻
 
-## Índice
+Perfil profesional
 
-- [Perfil profesional](#perfil-profesional)
-- [Proyectos destacados](#proyectos-destacados)
-- [Stack tecnológico](#stack-tecnológico)
-- [Inteligencia artificial](#inteligencia-artificial)
-- [Infraestructura y despliegue](#infraestructura-y-despliegue)
-- [Blockchain y Web3](#blockchain-y-web3)
-- [Formación](#formación)
-- [Experiencia profesional previa](#experiencia-profesional-previa)
-- [Idiomas](#idiomas)
-- [Competencias profesionales](#competencias-profesionales)
+Soy desarrollador de software Full Stack especializado en la creación de productos que integran inteligencia artificial, sistemas Retrieval-Augmented Generation, automatización de procesos e infraestructura self-hosted.
 
----
+Trabajo sobre el ciclo completo de desarrollo:
 
-## 🚀 Perfil profesional
+* Análisis del problema y definición de requisitos.
+* Diseño de producto y arquitectura.
+* Desarrollo de frontend y backend.
+* Modelado de datos y persistencia.
+* Integración de modelos de lenguaje y servicios externos.
+* Construcción de pipelines RAG y procesamiento documental.
+* Contenerización, despliegue, monitorización y mantenimiento.
 
-Desarrollador **Full Stack** especializado en **Inteligencia Artificial**, **Retrieval-Augmented Generation (RAG)**, automatización de procesos e infraestructura **Self-Hosted**.
+Mi objetivo es convertir capacidades de IA en sistemas útiles, fiables y orientados a negocio, evitando integraciones superficiales y priorizando la calidad del contexto, la trazabilidad de las respuestas y la eficiencia operativa.
 
-Diseño, desarrollo y despliego aplicaciones completas de principio a fin, integrando **backend**, **frontend**, **bases de datos**, **modelos de IA**, **APIs**, **Docker**, **redes** y demás.
+Construyo productos digitales completos en los que software, datos, IA e infraestructura funcionan como un único sistema.
 
----
+⸻
 
-### Evolución profesional
+Impacto y resultados
 
-Mi trayectoria tecnológica comenzó en **2018** dentro del ecosistema **Blockchain y Web3**, donde desarrollé un perfil autodidacta basado en la investigación, la experimentación y la resolución de problemas reales.
+Área	Resultado
+RAG jurídico	Más de 12.000 disposiciones, 600.000 artículos y aproximadamente 700.000 vectores indexados.
+IA local	Instalación, configuración y optimización de modelos de hasta 120B parámetros.
+Producto Full Stack	Desarrollo de aplicaciones completas con frontend, backend, bases de datos, APIs e IA.
+Infraestructura	Publicación de aplicaciones sobre infraestructura propia basada en Proxmox, Docker y proxy inverso.
+Recuperación semántica	Pipelines de ingestión, limpieza, chunking, embedding, búsqueda vectorial y recuperación documental.
+Blockchain y datos	Análisis y reconciliación de datasets con más de 20.000 operaciones procedentes de múltiples redes y plataformas.
+Automatización	Integración de agentes, modelos de IA, APIs y flujos automatizados para procesos empresariales.
 
-Durante varios años profundicé en tecnologías descentralizadas como **DeFi**, **NFTs**, **Smart Contracts**, **Solidity**, sistemas **Proof of Work** y **Proof of Stake**, seguridad mediante billeteras multifirma y operativa avanzada con exchanges centralizados y descentralizados. Esta experiencia me permitió ofrecer **asesoramiento técnico** y formación especializada en el sector.
+⸻
 
-Paralelamente adquirí un conocimiento avanzado sobre la **fiscalidad española aplicada a los criptoactivos**, analizando e interpretando una normativa todavía poco desarrollada para gestionar correctamente operativas complejas con decenas de miles de movimientos distribuidos entre múltiples plataformas.
+Proyectos destacados
 
-Con el objetivo de ampliar mi perfil técnico, decidí especializarme profesionalmente en el **desarrollo de software**, completando un **Máster en Desarrollo Web Full Stack** y orientando posteriormente mi carrera hacia la **Inteligencia Artificial aplicada**.
+⚖️ Juridia — Sistema RAG para normativa española
 
-Actualmente desarrollo aplicaciones que combinan **LLMs**, **sistemas RAG**, **bases de datos vectoriales**, **automatización**, **agentes conversacionales**, **procesamiento documental** e **infraestructura propia**, creando soluciones completas que abarcan desde el diseño de la arquitectura hasta su despliegue y mantenimiento en producción.
+Sistema de consulta jurídica basado en Retrieval-Augmented Generation, diseñado para localizar normativa española relevante y generar respuestas fundamentadas utilizando el contenido completo de los artículos recuperados.
 
----
+Escala actual
 
-## 📊 Highlights
+* Más de 12.000 disposiciones normativas.
+* Más de 600.000 artículos almacenados.
+* Aproximadamente 700.000 vectores indexados.
+* Referencias directas a fuentes oficiales del Boletín Oficial del Estado.
 
-|                        |                                                                                                    |
-| :--------------------- | :------------------------------------------------------------------------------------------------- |
-| ⚖️ **RAG Jurídico**    | Más de **12.000 normativas españolas**, **600.000 artículos** y **700.000 vectores** indexados.    |
-| 🧠 **IA Local**        | Instalación, configuración y optimización de modelos de hasta **120B parámetros**.                 |
-| 🌐 **Despliegue**      | Aplicaciones desarrolladas y publicadas íntegramente sobre infraestructura propia.                 |
-| 🐳 **Infraestructura** | Administración avanzada de **Docker**, **Proxmox**, redes y servicios Self-Hosted.                 |
-| 🔍 **RAG**             | Diseño de pipelines completos de ingestión, chunking avanzado, embeddings y recuperación selectiva.|
-| 🔗 **Blockchain**      | Más de **20.000 transacciones** realizadas y analizadas entre múltiples redes y exchanges.         |
-| 🤖 **Hermes Agent**    | Implementación y configuración de Hermes Agent hasta llegar a desbloquear insignias **Olympian**   |
+Aspectos técnicos destacados
 
-> *Mi objetivo profesional es diseñar y construir productos digitales donde la Inteligencia Artificial no sea un simple añadido, sino una ventaja competitiva real. Combino desarrollo Full Stack, infraestructura, automatización y arquitectura de software para crear soluciones robustas, escalables, modulares y orientadas a negocio. Mi enfoque se apoya en dos principios fundamentales: una Ingeniería de Prompts precisa y una Ingeniería de Contexto eficiente, capaces de transformar modelos de IA en sistemas útiles, fiables y preparados para producción.*
+* PostgreSQL como fuente documental canónica.
+* Qdrant como motor de recuperación vectorial.
+* Modelo de embedding de 1.024 dimensiones, ajustado para lenguaje jurídico español.
+* Normalización, traducción y enriquecimiento semántico de consultas.
+* Generación de palabras clave y expansión de la consulta antes de la vectorización.
+* Estrategia configurable de recuperación y limitación de candidatos mediante Top-K.
+* Chunking adaptado a la estructura y semántica de textos jurídicos.
+* Recuperación de artículos completos para conservar el contexto normativo.
+* Generación de respuestas respaldadas por documentos recuperados.
+* Inclusión de enlaces a las fuentes oficiales utilizadas.
+* Detección del idioma de entrada y traducción de consulta y respuesta.
+* Persistencia local del historial y mantenimiento de contexto conversacional.
+* Frontend diseñado específicamente para navegación y consulta jurídica.
 
----
+Stack
 
-## Proyectos personales
+Python · TypeScript · React · Vite · Tailwind CSS · PostgreSQL · Qdrant · LLM · Embeddings · Docker
 
-Todos los proyectos forman parte de mi portfolio y se encuentran desplegados en mi servidor personal.
-
-### [Home](https://carlosrevert.es) (https://carlosrevert.es)
-
-Página principal de presentación.
-
-- Presentación de mi perfil.
-- Exposición de mi portfolio.
-
----
-
-### [IA Jurídica](https://juridia.carlosrevert.es) (https://juridia.carlosrevert.es)
-
-Sistema RAG jurídico orientado a la consulta de normativa española.
-
-- Base de conocimiento con más de **600.000 artículos**. Toda la legislación consolidada Española.
-- **PostgreSQL + Qdrant** . Uso de Qdrant como puntero de vectores y recuperamos los artículos relevantes almacenados en PostgreSQL.
-- Modelo de **embedding de 1024** dimensiones : (https://huggingface.co/dariolopez/bge-m3-es-legal-tmp-6) (fine-tuned para derecho español).
-- **Intervención de la Query** entrante para Juridificarla y generar palabras clave que mejoran los vectores.
-- Estrategia de **limitación de candidatos Top-K** para obtener suficientes artículos, pero no demasiados.
-- **Traducción** de la Query y la respuesta. Cuando entra se interviene para pasarla a español y vectorizar correctamente. El resultado de traduce a el idioma de entrada.
-- Presentación de enlaces a **fuentes oficiales online del BOE** de todos los artículos utilizados.
-- Chunking personalizado y estrictamente diseñado para mantener contexto.
-- Recuperación de artículos enteros para comprensión correcta del significado completo del texto.
-- Integración de modelos de lenguaje para generación de respuestas fundamentadas.
-- Persistencia de historial via **localStorage** y **persistencia de contexto** en conversación de las últimas 6 iteraciones.
-- Diseño de FrontEnd desde 0 acorde a las necesidades especiales del producto.
-
-**Tecnologías:** Python · TypeScript · Qdrant · PostgreSQL · LLM · APIs · Docker · Embedding · Chunking · Vite · Tailwind · React
-
-> Aquí el **"readme.md"** del proyecto.
-
----
-
-### [CLARK — Generador de presupuestos](https://clark.carlosrevert.es) (https://clark.carlosrevert.es)
-
-Plataforma B2B de catalogo, busqueda, recomendacion y venta asistida para maquinaria de elevacion.
-Al ser productos de alto valor no hacemos venta online, sino que generamos el presupuesto para que un comercial se ponga en contacto.
-
-- Catálogo de elevadores, carretillas y traspaletas de CLARK con todo detalle de cada producto.
-- Comparador de productos (2 o 3 simultáneamente) con marcas de vencedor. Responsive.
-- Carrito y generación de presupuestos.
-- Chatbot con conocimiento completo de todos los productos y la empresa en System Prompt + RAG técnico.
-- Chatbot con navegación autónoma de paginas web en función de la pregunta del cliente. (Si le preguntas por un producto al chatbot es capaz de abrirte automáticamente la pagina de dicho producto, hacer comparaciones etc...)
-
-**Tecnologías:** Python · TypeScript · LLM Local · Docker · PostgreSQL + PgVector · Next · React · Tailwind
-
----
-
-### [Transcriptor con IA local](https://transcriptor.carlosrevert.es) (https://transcriptor.carlosrevert.es)
-
-Plataforma web para grabar, subir y procesar audio con IA, devolviendo informes estructurados según el modo elegido. El flujo combina una interfaz React, una API en FastAPI, persistencia en PostgreSQL, una cola de trabajo en segundo plano y proveedores externos de STT y LLM para transformar audio en resultados útiles y fáciles de compartir.
-
-- Transcripción mediante **Whisper** de audios que pueden ser de horas.
-- Grabación directa desde la app, previa selección del tipo de modo. (Con opciones de pausa, play, stop y cancelar)
-- Opción de adjuntar audio (previa petición de contraseña por mayor seguridad) y con autoconversión de formato a WAV y revisión de seguridad antes de abrir el archivo.
-- Almacenamiento de informes por usuario en base de datos. Con opción de cambio a localStorage para mayor privacidad.
-- Los audios se guardan en servidor durante 24 horas. El usuario puede descargarlos durante este plazo, luego serán eliminados.
-- Procesamiento de audio con IA local.
-- Diseño orientado a múltiples flujos y casos de uso.
-- Privacidad y control del procesamiento al ejecutarse en infraestructura propia.
-
-**Tecnologías:** Python · Whisper · STT · IA local · Docker
-
----
-
-### [Autopublika](https://autopublika.carlosrevert.es) (https://autopublika.carlosrevert.es)
-
-Sistema de planificación y generación de publicaciones de productos mediante EAN e inteligencia artificial.
-
-- Identificación y enriquecimiento de productos mediante códigos EAN.
-- Generación asistida de contenido.
-- Planificación de publicaciones.
-- Automatización de procesos relacionados con catálogos de producto.
-- Igual de potente para Productos, como para Servicios.
-
-**Tecnologías:** Python · API referente a código EAN e imagenes · Automatización
-
----
-
+<!--
+Añadir cuando la captura esté disponible:
+![Interfaz principal de Juridia](./assets/projects/juridia-overview.webp)
+-->
+<!--
+Añadir enlace al repositorio o documentación:
+[![Código](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](URL_REPOSITORIO_JURIDIA)
+[![Documentación](https://img.shields.io/badge/Documentación-README-4B5563?style=flat-square&logo=markdown)](URL_README_JURIDIA)
+-->
 <details>
-<summary><strong>Enfoque aplicado en los proyectos</strong></summary>
+<summary><strong>Ver arquitectura resumida</strong></summary>
+flowchart LR
+    U[Usuario] --> F[Frontend React]
+    F --> API[API Python]
+    API --> Q[Normalización y enriquecimiento]
+    Q --> E[Embedding jurídico]
+    E --> V[Qdrant]
+    V -->|IDs y relevancia| P[PostgreSQL]
+    P --> C[Construcción del contexto]
+    C --> L[Modelo de lenguaje]
+    L --> R[Respuesta fundamentada]
+    R --> S[Artículos y fuentes oficiales]
+    S --> F
+</details>
 
-- Arquitectura modular y mantenible.
-- Integración de frontend, backend, bases de datos y servicios externos.
-- Despliegue mediante contenedores.
-- Administración de dominios, subdominios, certificados SSL y proxy inverso.
-- Uso de modelos de IA locales y de proveedores cloud.
-- Control de versiones con Git y GitHub.
-- Documentación y preparación para revisión técnica.
+⸻
+
+🏗️ CLARK — Catálogo inteligente y generación de presupuestos
+
+Plataforma B2B para la búsqueda, comparación, recomendación y venta asistida de maquinaria de elevación.
+
+El producto está orientado a artículos de alto valor cuya comercialización requiere asesoramiento profesional. En lugar de completar una compra online convencional, el usuario selecciona productos, genera una solicitud de presupuesto y facilita el trabajo posterior del equipo comercial.
+
+Funcionalidades principales
+
+* Catálogo completo de carretillas, elevadores y transpaletas.
+* Fichas técnicas detalladas para cada producto.
+* Búsqueda y filtrado por características.
+* Comparación responsive de dos o tres productos.
+* Identificación visual de ventajas por característica.
+* Carrito de productos y generación de solicitudes de presupuesto.
+* Asistente conversacional con conocimiento sobre productos y empresa.
+* Recuperación técnica mediante RAG y búsqueda semántica.
+* Navegación contextual desde el asistente hacia productos y comparativas.
+* Recomendaciones basadas en las necesidades expresadas por el cliente.
+* Diseño adaptado a escritorio, tablet y móvil.
+
+Decisiones de producto
+
+* Flujo orientado a captación comercial en lugar de venta directa.
+* Presentación simplificada de especificaciones técnicas complejas.
+* Uso del asistente como herramienta de descubrimiento y recomendación.
+* Integración de catálogo, comparador, carrito y chatbot dentro de una única experiencia.
+
+Stack
+
+Python · TypeScript · Next.js · React · Tailwind CSS · PostgreSQL · pgvector · LLM local · Docker
+
+<!--
+Añadir cuando la captura esté disponible:
+![Catálogo y comparador de CLARK](./assets/projects/clark-catalog-comparison.webp)
+-->
+<!--
+Añadir enlace al repositorio o documentación:
+[![Código](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](URL_REPOSITORIO_CLARK)
+[![Documentación](https://img.shields.io/badge/Documentación-README-4B5563?style=flat-square&logo=markdown)](URL_README_CLARK)
+-->
+
+⸻
+
+🎙️ Transcriptor con IA — Audio a informes estructurados
+
+Aplicación web para grabar, subir y procesar audio, transformándolo en transcripciones e informes estructurados mediante modelos de Speech-to-Text y modelos de lenguaje.
+
+La plataforma combina una interfaz React, una API FastAPI, persistencia en PostgreSQL, procesamiento en segundo plano y proveedores de STT y LLM.
+
+Funcionalidades principales
+
+* Grabación de audio directamente desde el navegador.
+* Controles de pausa, reanudación, finalización y cancelación.
+* Subida protegida de archivos de audio.
+* Conversión automática de formatos a WAV.
+* Validación de archivos antes de su procesamiento.
+* Transcripción de audios de larga duración mediante Whisper.
+* Generación de informes según diferentes modos de procesamiento.
+* Procesamiento asíncrono mediante cola de trabajo.
+* Persistencia de informes por usuario.
+* Posibilidad de utilizar almacenamiento local para escenarios con mayor privacidad.
+* Descarga temporal de archivos de audio.
+* Eliminación automática de audios tras el periodo de retención.
+* Ejecución sobre infraestructura propia.
+
+Arquitectura
+
+* Frontend desacoplado para grabación, gestión y consulta.
+* API FastAPI para autenticación, operaciones y orquestación.
+* PostgreSQL para usuarios, trabajos e informes.
+* Cola de procesamiento para tareas de larga duración.
+* Whisper para transcripción.
+* LLM para estructuración, resumen y transformación del contenido.
+* Retención temporal controlada para archivos de audio.
+
+Stack
+
+Python · FastAPI · React · PostgreSQL · Whisper · STT · LLM · Docker
+
+<!--
+Añadir cuando la captura esté disponible:
+![Informe generado por el transcriptor](./assets/projects/transcriptor-report.webp)
+-->
+<!--
+Añadir enlace al repositorio o documentación:
+[![Código](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](URL_REPOSITORIO_TRANSCRIPTOR)
+[![Documentación](https://img.shields.io/badge/Documentación-README-4B5563?style=flat-square&logo=markdown)](URL_README_TRANSCRIPTOR)
+-->
+
+⸻
+
+Otros proyectos
+
+Proyecto	Descripción	Enlace
+Autopublika	Sistema de identificación de productos mediante EAN, enriquecimiento de información, generación asistida de contenido y planificación de publicaciones. Aplicable tanto a productos como a servicios.	Ver aplicación⁠￼
+Portfolio personal	Página principal donde centralizo mi perfil profesional, proyectos desplegados e información de contacto.	Visitar portfolio⁠￼
+
+<!--
+Añadir cuando la captura esté disponible:
+![Planificador de Autopublika](./assets/projects/autopublika-planner.webp)
+-->
+<details>
+<summary><strong>Principios aplicados en mis proyectos</strong></summary>
+
+* Arquitecturas modulares y mantenibles.
+* Separación clara entre frontend, backend y persistencia.
+* Integración de servicios internos y APIs externas.
+* Contenerización mediante Docker.
+* Configuración por variables de entorno.
+* Uso de modelos locales y proveedores cloud según el caso de uso.
+* Persistencia relacional y recuperación vectorial.
+* Gestión de dominios, subdominios, certificados TLS y proxy inverso.
+* Control de versiones con Git y GitHub.
+* Documentación técnica y preparación para revisión.
+* Diseño orientado a producto y necesidades reales de negocio.
 
 </details>
 
----
+⸻
+
+Capacidades técnicas
+
+Inteligencia artificial aplicada
+
+* Integración de modelos de lenguaje mediante APIs y servicios locales.
+* Diseño de prompts de sistema, flujos de herramientas y respuestas estructuradas.
+* Ingeniería de contexto para aplicaciones conversacionales.
+* Selección de modelos según calidad, coste, latencia, contexto y recursos.
+* Integración con OpenAI, Anthropic, Google, OpenRouter, xAI y ElevenLabs.
+* Configuración de modelos locales de hasta 120B parámetros.
+* Evaluación de cuantización, consumo de memoria y backend de inferencia.
+* Procesamiento de voz mediante STT y TTS.
+* Whisper ejecutado en infraestructura propia.
+* OCR con modelos de visión, Tesseract y herramientas especializadas.
+
+Sistemas RAG y procesamiento documental
+
+* Diseño de arquitecturas Retrieval-Augmented Generation.
+* Ingesta, limpieza y normalización documental.
+* Chunking semántico y estructural.
+* Generación y almacenamiento de embeddings.
+* Qdrant y pgvector como motores de recuperación.
+* Estrategias Top-K, filtrado y recuperación híbrida.
+* Enriquecimiento y expansión de consultas.
+* Construcción dinámica del contexto.
+* Recuperación con trazabilidad hacia las fuentes.
+* Bases de conocimiento especializadas por empresa o dominio.
+
+Desarrollo de software
+
+* Desarrollo de aplicaciones Full Stack.
+* APIs REST y comunicación entre servicios.
+* Aplicaciones modulares y desacopladas.
+* Interfaces responsive.
+* Modelado y persistencia de datos.
+* Integración de servicios externos.
+* Procesamiento asíncrono y tareas en segundo plano.
+* Gestión de configuración mediante variables de entorno.
+* Control de versiones y documentación técnica.
+
+Infraestructura y operaciones
+
+* Administración de entornos Linux.
+* Despliegues contenerizados con Docker y Docker Compose.
+* Virtualización y administración de servicios mediante Proxmox.
+* Publicación de aplicaciones sobre infraestructura propia.
+* Gestión de dominios y subdominios.
+* Certificados TLS y redirección HTTPS.
+* Proxy inverso mediante Nginx Proxy Manager.
+* Dynamic DNS y acceso remoto seguro.
+* Volúmenes persistentes y separación entre aplicación y datos.
+* Infraestructura para ejecutar modelos de IA locales.
+* Conocimientos teóricos de Kubernetes.
+
+Automatización y agentes
+
+* Flujos de automatización mediante n8n y Make.
+* Integración entre aplicaciones, modelos, APIs y servicios.
+* Automatización de publicación, comunicación y procesamiento de información.
+* Asistentes conectados con bases de conocimiento empresariales.
+* Agentes conversacionales para web, voz y mensajería.
+* Configuración avanzada de herramientas y flujos en Hermes Agent.
+
+⸻
+
+Stack tecnológico
+
+Tecnologías principales
+
+Área	Tecnologías y herramientas
+Lenguajes	Python, TypeScript, JavaScript, HTML5 y CSS3
+Backend	FastAPI, Django, Flask y Node.js
+Frontend	React, Next.js, Vite y Tailwind CSS
+Bases de datos	PostgreSQL, MySQL y SQLite
+Bases vectoriales	Qdrant y pgvector
+IA y datos	LLMs, embeddings, RAG, Whisper, STT, TTS y OCR
+Infraestructura	Docker, Docker Compose, Proxmox, Linux y Nginx Proxy Manager
+Automatización	n8n, Make, APIs y agentes
+Control de versiones	Git y GitHub
+Administración de datos	DBeaver
+Desarrollo asistido por IA	OpenAI Codex, GitHub Copilot, Claude Code y Antigravity
 
-## Stack tecnológico
+⸻
+
+Modelos y proveedores de inteligencia artificial
+
+Proveedores integrados
+
+* OpenAI.
+* Anthropic.
+* Google.
+* OpenRouter.
+* xAI.
+* ElevenLabs.
 
-### Desarrollo web
+Modelos locales
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+Experiencia instalando, configurando y evaluando modelos pertenecientes a familias como:
 
-| Área | Tecnologías |
-|---|---|
-| **Backend** | Python, Django, Flask, Node.js |
-| **Frontend** | HTML5, CSS3, JavaScript, React, Vite |
-| **APIs** | Integración de APIs, servicios de IA y sistemas externos |
-| **Arquitectura** | Aplicaciones modulares, servicios contenerizados y entornos self-hosted |
+* NVIDIA Nemotron.
+* Qwen.
+* Gemma.
+* DeepSeek.
+* gpt-oss.
 
-### Bases de datos
+He trabajado con modelos de hasta 120B parámetros, ajustando:
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+* Cuantización.
+* Ventana de contexto.
+* Consumo de memoria.
+* Hardware disponible.
+* Backend de inferencia.
+* Velocidad y concurrencia.
+* Calidad de respuesta.
+* Adecuación al caso de uso.
 
-- **Relacionales:** MySQL, PostgreSQL y SQLite.
-- **Vectoriales:** Qdrant y pgvector.
-- **Administración y consulta:** DBeaver.
-- Diseño de sistemas orientados a recuperación semántica y aplicaciones RAG.
+⸻
 
-### Herramientas y control de versiones
+Trayectoria profesional
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+Mi trayectoria tecnológica comenzó en 2018 dentro del ecosistema Blockchain y Web3, donde desarrollé un perfil autodidacta basado en la investigación, la experimentación y la resolución de problemas reales.
 
-- Control de versiones mediante **Git y GitHub**.
-- Editor principal: **Visual Studio Code**.
-- Experiencia con herramientas de desarrollo asistido por IA:
-  - GitHub Copilot.
-  - OpenAI Codex.
-  - Claude Code.
-  - Antigravity.
+Durante esta etapa profundicé en tecnologías descentralizadas, seguridad, activos digitales, contratos inteligentes, sistemas de consenso y operativa entre múltiples redes y plataformas. También ofrecí asesoramiento técnico y formación especializada.
 
----
+Posteriormente decidí ampliar y formalizar mi perfil mediante un Máster en Desarrollo Web Full Stack, especializándome en la construcción completa de aplicaciones, desde el frontend y el backend hasta las bases de datos y el despliegue.
 
-## Inteligencia artificial
+Actualmente centro mi trabajo en el desarrollo de productos que combinan:
 
-### Integración de modelos y proveedores
+* Aplicaciones web.
+* Modelos de lenguaje.
+* Sistemas RAG.
+* Bases de datos vectoriales.
+* Automatización.
+* Agentes conversacionales.
+* Procesamiento documental.
+* Infraestructura propia.
 
-Experiencia avanzada conectando aplicaciones y flujos con APIs de:
+Esta evolución me permite abordar un producto desde tres perspectivas complementarias: tecnología, negocio y operaciones.
 
-- OpenAI.
-- Anthropic.
-- Google.
-- OpenRouter.
-- xAI.
-- ElevenLabs.
+⸻
 
-### Modelos locales
+Blockchain y Web3
 
-Configuración, optimización y puesta en producción de modelos locales de hasta **120B parámetros**:
+Experiencia en Blockchain y Web3 desde 2018, inicialmente de forma autodidacta y posteriormente mediante asesoramiento técnico y formación.
 
-- NVIDIA Nemotron: 14B, 30B y 120B.
-- Qwen 3, Qwen 3.5 y Qwen 3.6.
-- Gemma.
-- DeepSeek.
-- gpt-oss-120b.
+Áreas de conocimiento
 
-Experiencia seleccionando modelos, ajustando cuantización, contexto, memoria y backend de inferencia según los recursos disponibles y el caso de uso.
+* Finanzas descentralizadas.
+* Exchanges centralizados y descentralizados.
+* NFTs.
+* Proof of Work y Proof of Stake.
+* Minería y validación.
+* Billeteras frías y configuraciones multifirma.
+* Contratos inteligentes con Solidity.
+* Ethereum y otras redes compatibles.
+* Seguridad, custodia y operativa de activos digitales.
 
-### RAG, recuperación y procesamiento documental
+Análisis y fiscalidad de criptoactivos
 
-- Diseño de sistemas **Retrieval-Augmented Generation**.
-- Uso de Qdrant y pgvector como almacenes vectoriales.
-- Estrategias avanzadas de **chunking**.
-- Optimización de precisión, contexto y eficiencia de recuperación.
-- Ingesta, limpieza, segmentación e indexación documental.
-- Diseño de bases de conocimiento específicas para empresas y dominios especializados.
+Experiencia en el análisis y organización de operativas complejas relacionadas con activos digitales:
 
-### Voz, OCR y agentes conversacionales
+* Reconciliación de más de 20.000 operaciones.
+* Datos procedentes de más de 10 exchanges.
+* Consolidación de movimientos centralizados y descentralizados.
+* Interpretación de operaciones entre diferentes plataformas y redes.
+* Estudio de la fiscalidad española aplicada a criptoactivos.
+* Organización documental para declaraciones fiscales.
 
-- Modelos **Speech-to-Text (STT)**.
-- Modelos **Text-to-Speech (TTS)**.
-- Whisper en local.
-- Integración de ElevenLabs.
-- Sistemas OCR con modelos de IA, Tesseract y herramientas similares.
-- Creación de asistentes telefónicos y agentes de WhatsApp.
-- Flujos conversacionales conectados con conocimiento real de empresas.
+⸻
 
-### Automatización
+Formación
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+Máster en Desarrollo Web Full Stack
 
-- Creación y mantenimiento de flujos en **n8n** y **Make**.
-- Integración entre APIs, modelos de IA, aplicaciones y servicios externos.
-- Automatización de procesos de negocio, publicación, análisis y comunicación.
+Conquer Blocks · Formación online
+Periodo: 2024–2026 · Dedicación completa
 
----
+Formación orientada al desarrollo integral de aplicaciones web:
 
-## Infraestructura y despliegue
+* Frontend.
+* Backend.
+* Bases de datos.
+* Git y GitHub.
+* Arquitectura.
+* Despliegue.
+* Desarrollo de proyectos funcionales.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=nginx&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Conocimiento_teórico-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+Formación en curso
 
-- Dominio avanzado de **Docker** y despliegues contenerizados.
-- Administración de un servidor propio basado en **Proxmox**.
-- Despliegue y mantenimiento de aplicaciones web disponibles públicamente.
-- Ejecución de modelos de inteligencia artificial locales.
-- Configuración de IP, Dynamic DNS y acceso remoto.
-- Gestión de dominios, subdominios, certificados SSL y proxy inverso mediante **Nginx Proxy Manager**.
-- Conocimientos teóricos de **Kubernetes**.
-- Diseño de infraestructura para aplicaciones que dependen de servicios de IA locales.
+* Máster en Inteligencia Artificial.
+* Máster en Desarrollo Blockchain.
+* Inglés profesional en Conquer Blocks.
 
----
+Formación continua
 
-## Blockchain y Web3
+Mantengo una formación permanente en:
 
-Más de **diez años de experiencia** en el ecosistema Blockchain, comenzando de forma autodidacta y evolucionando hasta ofrecer asesorías y formaciones.
+* Inteligencia artificial.
+* Desarrollo de software.
+* Arquitectura de aplicaciones.
+* Infraestructura.
+* Automatización.
+* Modelos locales.
+* Ingeniería de prompts.
+* Ingeniería de contexto.
 
-### Áreas de experiencia
+⸻
 
-- Finanzas descentralizadas (**DeFi**).
-- NFTs.
-- Minería y validación mediante **Proof of Work** y **Proof of Stake**.
-- Gestión de billeteras frías y configuraciones multifirma.
-- Contratos inteligentes con **Solidity**.
-- Desarrollo y experimentación en Ethereum y Sonic.
-- Uso de exchanges centralizados y descentralizados.
-- Seguridad, custodia y operativa de activos digitales.
+Experiencia profesional complementaria
 
-### Fiscalidad de criptoactivos
+<details>
+<summary><strong>Ver experiencia anterior y competencias transferibles</strong></summary>
 
-Estudio profundo de la fiscalidad española aplicada a criptomonedas y activos digitales.
+Jefe de cocina
 
-- Preparación de declaraciones fiscales propias.
-- Análisis de más de **20.000 transacciones**.
-- Operativa distribuida entre más de **10 exchanges**.
-- Consolidación de movimientos procedentes de plataformas centralizadas y descentralizadas.
-- Interpretación y organización de operaciones en un entorno regulatorio todavía en evolución.
+10 años de experiencia
 
----
+* Dirección y coordinación de equipos.
+* Organización de operaciones diarias.
+* Distribución de responsabilidades.
+* Control de stock y aprovisionamiento.
+* Resolución de incidencias bajo presión.
+* Supervisión de calidad y cumplimiento de procesos.
 
-## Formación
+Agente de seguros
 
-### Máster en Desarrollo Web Full Stack
+Seguros Ocaso · 2 años
 
-**Conquer Blocks · Formación online**
+* Atención y asesoramiento al cliente.
+* Gestión comercial presencial.
+* Comunicación de productos y coberturas.
+* Identificación de necesidades.
+* Desarrollo de relaciones de confianza.
 
-Formación orientada al desarrollo completo de aplicaciones web, cubriendo frontend, backend, bases de datos, control de versiones, despliegue y desarrollo de proyectos funcionales.
+Monitor de fitness y artes marciales
 
-**Fecha:** `2024 a 2026 full time`
+* Planificación y dirección de actividades.
+* Comunicación y motivación de grupos.
+* Adaptación a diferentes perfiles.
+* Transmisión de disciplina y constancia.
+* Cinturón negro de Taekwondo.
 
-### Formación en curso
+Esta experiencia me ha permitido desarrollar competencias directamente aplicables a proyectos tecnológicos:
 
-- Máster en Inteligencia Artificial
-- Máster en Desarrollo Blockchain
-- Curso de Inglés Profesional en ConquerBlocks
+* Liderazgo.
+* Comunicación.
+* Organización.
+* Gestión de prioridades.
+* Orientación al cliente.
+* Resolución de problemas.
+* Trabajo bajo presión.
+* Responsabilidad operativa.
 
-### Formación complementaria
+</details>
 
-- Cursos de inglés de atención al cliente. 
-- Formación continua en inteligencia artificial, desarrollo de software, infraestructura y automatización.
+⸻
 
----
+Idiomas
 
-## Experiencia profesional previa
+Idioma	Nivel
+Castellano	Nativo
+Valenciano	Nativo
+Inglés escrito	Alto
+Inglés oral	Intermedio
 
-### Jefe de cocina
+⸻
 
-**10 años de experiencia**
+Competencias profesionales
 
-- Dirección y coordinación de equipo en hostelería.
-- Organización del trabajo y asignación de responsabilidades.
-- Control de stock y gestión de género.
-- Resolución de incidencias e imprevistos.
-- Responsabilidad sobre el funcionamiento diario del equipo.
+* Aprendizaje autónomo y adaptación tecnológica.
+* Pensamiento analítico.
+* Resolución estructurada de problemas.
+* Liderazgo y coordinación de equipos.
+* Gestión de proyectos multidisciplinares.
+* Capacidad para transformar necesidades de negocio en soluciones técnicas.
+* Mentalidad orientada a producto.
+* Documentación e investigación.
+* Mejora continua.
+* Comunicación con perfiles técnicos y no técnicos.
+* Visión conjunta de tecnología, negocio y operaciones.
 
-### Agente de seguros
+⸻
 
-**Seguros Ocaso · 2 años**
+Contacto
 
-- Atención y asesoramiento al cliente.
-- Gestión comercial cara a cara.
-- Comunicación de productos y coberturas.
-- Desarrollo de relaciones de confianza con clientes.
+Estoy interesado en proyectos y oportunidades relacionados con:
 
-### Monitor de Fitness y Artes Marciales
-
-- Planificación y dirección de actividades físicas.
-- Comunicación y motivación de grupos.
-- Adaptación del entrenamiento a distintos perfiles.
-- Cinturón Negro de TaeKwonDo.
-- Nutrición y suplementación deportiva.
-- Transmisión de disciplina, constancia y mejora progresiva.
-
----
-
-## Idiomas
-
-| Idioma | Nivel |
-|---|---|
-| **Castellano** | Nativo |
-| **Valenciano** | Nativo |
-| **Inglés escrito** | Alto |
-| **Inglés oral** | Intermedio |
-
----
-
-## Competencias profesionales
-
-- Aprendizaje autónomo y adaptación tecnológica.
-- Pensamiento analítico y resolución de problemas.
-- Liderazgo y coordinación de equipos.
-- Gestión de proyectos multidisciplinares.
-- Capacidad para transformar una necesidad de negocio en una solución técnica.
-- Mentalidad orientada a producto y mejora continua.
-- Documentación, investigación y aprendizaje de nuevas herramientas.
-- Experiencia combinando tecnología, negocio, operaciones y atención al cliente.
-
----
-
-## Objetivo profesional
-
-Continuar desarrollándome como profesional especializado en **desarrollo Full Stack e integración de inteligencia artificial**, participando en proyectos donde pueda combinar software, automatización, modelos de lenguaje, sistemas RAG e infraestructura self-hosted.
-
-Me interesa colaborar en equipos y proyectos que valoren la autonomía, el aprendizaje continuo, la experimentación técnica y la aplicación práctica de nuevas tecnologías.
-
----
+* Desarrollo Full Stack.
+* Inteligencia artificial aplicada.
+* Sistemas RAG.
+* Automatización.
+* Agentes y asistentes conversacionales.
+* Infraestructura self-hosted.
+* Productos digitales orientados a negocio.
 
 <div align="center">
 
-### Contacto
+Hablemos
 
-🌐 [carlosrevert.es](https://carlosrevert.es)  
-💼 LinkedIn: `pendiente de añadir`  
-✉️ Email: `revertus@protonmail.com`
+<a href="https://carlosrevert.es">
+  <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:revertus@protonmail.com">
+  <img src="https://img.shields.io/badge/Email-revertus%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/RevertDeveloper">
+  <img src="https://img.shields.io/badge/GitHub-RevertDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<!-- Añadir cuando esté disponible:
+<a href="URL_DE_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+-->
 
----
-
-**Disponible para proyectos, colaboraciones y oportunidades profesionales.**
+Disponible para oportunidades profesionales, proyectos y colaboraciones.
 
 </div>
