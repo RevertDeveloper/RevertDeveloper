@@ -76,9 +76,28 @@ Mi objetivo es convertir capacidades de IA en **sistemas útiles, fiables y orie
 
 ## 🚀 Proyectos destacados
 
-### ⚖️ Juridia — Sistema RAG para normativa española
+### 🏠 [HOME](https://carlosrevert.es) — Presentación profesional
 
-Sistema de consulta jurídica basado en **Retrieval-Augmented Generation**, diseñado para localizar normativa española relevante y generar respuestas fundamentadas utilizando el contenido completo de los artículos recuperados.
+Espacio central de mi presencia profesional, diseñado para mostrar de forma clara mi perfil, áreas de especialización, proyectos digitales y vías de contacto.
+
+La web funciona como punto de entrada al ecosistema de productos que desarrollo, con una navegación directa hacia las aplicaciones publicadas y una presentación orientada tanto a clientes como a equipos técnicos.
+
+#### Enfoque
+
+- Presentación concisa de perfil, capacidades y propuesta de valor.
+- Acceso centralizado a proyectos y productos desplegados.
+- Diseño responsive, claro y orientado a conversión profesional.
+- Información de contacto y presencia digital unificadas.
+
+#### Stack
+
+**Web · Diseño responsive · Despliegue self-hosted · Dominio propio**
+
+---
+
+### ⚖️ [JURIDIA](https://juridia.carlosrevert.es) — Sistema RAG para normativa española
+
+Sistema de consulta jurídica basado en **Retrieval-Augmented Generation**, diseñado para localizar normativa española relevante y generar respuestas fundamentadas a partir del contenido completo de los artículos recuperados. A pesar de tener todas las normativas en posesión, también adjuntamos enlaces a las fuentes oficiales en el BOE para que puedan identificar exactamente los textos originales.
 
 #### Escala actual
 
@@ -93,121 +112,70 @@ Sistema de consulta jurídica basado en **Retrieval-Augmented Generation**, dise
 - **Qdrant** como motor de recuperación vectorial.
 - Modelo de embedding de **1.024 dimensiones**, ajustado para lenguaje jurídico español.
 - Normalización, traducción y **enriquecimiento semántico de consultas**.
-- Generación de palabras clave y expansión de la consulta antes de la vectorización.
+- Generación de palabras clave y expansión de consulta antes de la vectorización.
 - Estrategia configurable de recuperación y limitación de candidatos mediante **Top-K**.
 - **Chunking** adaptado a la estructura y semántica de textos jurídicos.
-- Recuperación de artículos completos para conservar el contexto normativo.
-- Generación de respuestas respaldadas por documentos recuperados.
-- Inclusión de enlaces a las **fuentes oficiales utilizadas**.
-- Detección del idioma de entrada y traducción de consulta y respuesta.
-- Persistencia local del historial y mantenimiento de contexto conversacional.
-- Frontend diseñado específicamente para navegación y consulta jurídica.
+- Recuperación de artículos completos para preservar el contexto normativo.
+- Respuestas respaldadas por documentos recuperados y enlaces a las fuentes oficiales.
+- Detección de idioma, traducción de consultas y mantenimiento de contexto conversacional.
+- Frontend diseñado específicamente para la navegación y consulta jurídica.
 
 #### Stack
 
 **Python · TypeScript · React · Vite · Tailwind CSS · PostgreSQL · Qdrant · LLM · Embeddings · Docker**
 
-<!--
-Añadir cuando la captura esté disponible:
-
-![Interfaz principal de Juridia](./assets/projects/juridia-overview.webp)
--->
-
-<!--
-Añadir enlace al repositorio o documentación:
-
-[![Código](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](URL_REPOSITORIO_JURIDIA)
-[![Documentación](https://img.shields.io/badge/Documentación-README-4B5563?style=flat-square&logo=markdown)](URL_README_JURIDIA)
--->
-
-<details>
-<summary><strong>Ver arquitectura resumida</strong></summary>
-
-```mermaid
-flowchart LR
-    U[Usuario] --> F[Frontend React]
-    F --> API[API Python]
-    API --> Q[Normalización y enriquecimiento]
-    Q --> E[Embedding jurídico]
-    E --> V[Qdrant]
-    V -->|IDs y relevancia| P[PostgreSQL]
-    P --> C[Construcción del contexto]
-    C --> L[Modelo de lenguaje]
-    L --> R[Respuesta fundamentada]
-    R --> S[Artículos y fuentes oficiales]
-    S --> F
-```
-
-</details>
-
 ---
 
-### 🏗️ CLARK — Catálogo inteligente y generación de presupuestos
+### 🏗️ [CLARK](https://clark.carlosrevert.es) — Catálogo inteligente y generación de presupuestos
 
 Plataforma **B2B** para la búsqueda, comparación, recomendación y venta asistida de maquinaria de elevación.
 
-El producto está orientado a **artículos de alto valor** cuya comercialización requiere asesoramiento profesional. En lugar de completar una compra online convencional, el usuario selecciona productos, genera una solicitud de presupuesto y facilita el trabajo posterior del equipo comercial.
+Está orientada a productos de alto valor cuya comercialización exige asesoramiento profesional. En lugar de una compra online convencional, el usuario configura una selección de productos y genera una solicitud de presupuesto que facilita el trabajo posterior del equipo comercial.
 
 #### Funcionalidades principales
 
 - Catálogo completo de carretillas, elevadores y transpaletas.
-- Fichas técnicas detalladas para cada producto.
-- Búsqueda y filtrado por características.
+- Fichas técnicas detalladas, búsqueda y filtrado por características.
 - Comparación responsive de **dos o tres productos**.
 - Identificación visual de ventajas por característica.
 - Carrito de productos y generación de solicitudes de presupuesto.
-- Asistente conversacional con conocimiento sobre productos y empresa.
+- Asistente conversacional con conocimiento de productos y empresa.
 - Recuperación técnica mediante **RAG y búsqueda semántica**.
 - Navegación contextual desde el asistente hacia productos y comparativas.
 - Recomendaciones basadas en las necesidades expresadas por el cliente.
-- Diseño adaptado a **escritorio, tablet y móvil**.
+- Experiencia adaptada a escritorio, tablet y móvil.
 
 #### Decisiones de producto
 
 - Flujo orientado a **captación comercial** en lugar de venta directa.
-- Presentación simplificada de especificaciones técnicas complejas.
+- Presentación accesible de especificaciones técnicas complejas.
 - Uso del asistente como herramienta de descubrimiento y recomendación.
-- Integración de **catálogo, comparador, carrito y chatbot** dentro de una única experiencia.
+- Integración de catálogo, comparador, carrito y chatbot en una única experiencia.
 
 #### Stack
 
 **Python · TypeScript · Next.js · React · Tailwind CSS · PostgreSQL · pgvector · LLM local · Docker**
 
-<!--
-Añadir cuando la captura esté disponible:
-
-![Catálogo y comparador de CLARK](./assets/projects/clark-catalog-comparison.webp)
--->
-
-<!--
-Añadir enlace al repositorio o documentación:
-
-[![Código](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](URL_REPOSITORIO_CLARK)
-[![Documentación](https://img.shields.io/badge/Documentación-README-4B5563?style=flat-square&logo=markdown)](URL_README_CLARK)
--->
-
 ---
 
-### 🎙️ Transcriptor con IA — Audio a informes estructurados
+### 🎙️ [Transcriptor con IA](https://transcriptor.carlosrevert.es) — Audio a informes estructurados
 
 Aplicación web para grabar, subir y procesar audio, transformándolo en **transcripciones e informes estructurados** mediante modelos de **Speech-to-Text** y modelos de lenguaje.
 
-La plataforma combina una interfaz **React**, una API **FastAPI**, persistencia en **PostgreSQL**, procesamiento en segundo plano y proveedores de **STT y LLM**.
+La plataforma combina una interfaz React, una API FastAPI, persistencia en PostgreSQL y procesamiento en segundo plano, con una arquitectura pensada para escenarios que requieren privacidad y control de los datos.
 
 #### Funcionalidades principales
 
 - Grabación de audio directamente desde el navegador.
 - Controles de pausa, reanudación, finalización y cancelación.
-- Subida protegida de archivos de audio.
+- Subida protegida y validación previa de archivos de audio.
 - Conversión automática de formatos a **WAV**.
-- Validación de archivos antes de su procesamiento.
 - Transcripción de audios de larga duración mediante **Whisper**.
-- Generación de informes según diferentes modos de procesamiento.
+- Generación de informes según distintos modos de procesamiento.
 - Procesamiento asíncrono mediante cola de trabajo.
 - Persistencia de informes por usuario.
-- Posibilidad de utilizar almacenamiento local para escenarios con mayor privacidad.
-- Descarga temporal de archivos de audio.
-- Eliminación automática de audios tras el periodo de retención.
+- Opción de almacenamiento local para escenarios con mayores requisitos de privacidad.
+- Descarga temporal y eliminación automática de audios tras el periodo de retención.
 - Ejecución sobre **infraestructura propia**.
 
 #### Arquitectura
@@ -216,44 +184,16 @@ La plataforma combina una interfaz **React**, una API **FastAPI**, persistencia 
 - API **FastAPI** para autenticación, operaciones y orquestación.
 - **PostgreSQL** para usuarios, trabajos e informes.
 - Cola de procesamiento para tareas de larga duración.
-- **Whisper** para transcripción.
-- **LLM** para estructuración, resumen y transformación del contenido.
-- Retención temporal controlada para archivos de audio.
+- **Whisper** para transcripción y **LLM** para estructuración, resumen y transformación del contenido.
+- Retención temporal controlada de archivos de audio.
 
 #### Stack
 
 **Python · FastAPI · React · PostgreSQL · Whisper · STT · LLM · Docker**
 
-<!--
-Añadir cuando la captura esté disponible:
-
-![Informe generado por el transcriptor](./assets/projects/transcriptor-report.webp)
--->
-
-<!--
-Añadir enlace al repositorio o documentación:
-
-[![Código](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](URL_REPOSITORIO_TRANSCRIPTOR)
-[![Documentación](https://img.shields.io/badge/Documentación-README-4B5563?style=flat-square&logo=markdown)](URL_README_TRANSCRIPTOR)
--->
-
 ---
 
-## 🧩 Otros proyectos
-
-| Proyecto | Descripción | Enlace |
-| :--- | :--- | :---: |
-| **Autopublika** | Sistema de identificación de productos mediante **EAN**, enriquecimiento de información, generación asistida de contenido y planificación de publicaciones. Aplicable tanto a productos como a servicios. | [Ver aplicación](https://autopublika.carlosrevert.es) |
-| **Portfolio personal** | Página principal donde centralizo mi perfil profesional, proyectos desplegados e información de contacto. | [Visitar portfolio](https://carlosrevert.es) |
-
-<!--
-Añadir cuando la captura esté disponible:
-
-![Planificador de Autopublika](./assets/projects/autopublika-planner.webp)
--->
-
-<details>
-<summary><strong>Principios aplicados en mis proyectos</strong></summary>
+## Principios aplicados en mis proyectos
 
 - Arquitecturas modulares y mantenibles.
 - Separación clara entre frontend, backend y persistencia.
@@ -266,8 +206,6 @@ Añadir cuando la captura esté disponible:
 - Control de versiones con **Git y GitHub**.
 - Documentación técnica y preparación para revisión.
 - Diseño orientado a producto y necesidades reales de negocio.
-
-</details>
 
 ---
 
@@ -460,24 +398,14 @@ Formación orientada al desarrollo integral de aplicaciones web:
 - Despliegue.
 - Desarrollo de proyectos funcionales.
 
+### Certificados en : 
+***CSS, DJango, Git y GitHub, HTML, Javascript, Linux y Terminal, Python, Principios SOLID, SCRUM***
+
 ### Formación en curso
 
 - **Máster en Inteligencia Artificial**.
 - **Máster en Desarrollo Blockchain**.
 - **Inglés profesional en Conquer Blocks**.
-
-### Formación continua
-
-Mantengo una formación permanente en:
-
-- Inteligencia artificial.
-- Desarrollo de software.
-- Arquitectura de aplicaciones.
-- Infraestructura.
-- Automatización.
-- Modelos locales.
-- Ingeniería de prompts.
-- Ingeniería de contexto.
 
 ---
 
@@ -491,8 +419,6 @@ Mantengo una formación permanente en:
 **10 años de experiencia**
 
 - Dirección y coordinación de equipos.
-- Organización de operaciones diarias.
-- Distribución de responsabilidades.
 - Control de stock y aprovisionamiento.
 - Resolución de incidencias bajo presión.
 - Supervisión de calidad y cumplimiento de procesos.
@@ -511,9 +437,8 @@ Mantengo una formación permanente en:
 
 - Planificación y dirección de actividades.
 - Comunicación y motivación de grupos.
-- Adaptación a diferentes perfiles.
 - Transmisión de disciplina y constancia.
-- **Cinturón negro de Taekwondo**.
+- Cinturón negro de Taekwondo.
 
 Esta experiencia me ha permitido desarrollar competencias directamente aplicables a proyectos tecnológicos:
 
@@ -541,22 +466,6 @@ Esta experiencia me ha permitido desarrollar competencias directamente aplicable
 
 ---
 
-## 🎯 Competencias profesionales
-
-- **Aprendizaje autónomo** y adaptación tecnológica.
-- Pensamiento analítico.
-- Resolución estructurada de problemas.
-- Liderazgo y coordinación de equipos.
-- Gestión de proyectos multidisciplinares.
-- Capacidad para transformar **necesidades de negocio en soluciones técnicas**.
-- Mentalidad orientada a producto.
-- Documentación e investigación.
-- Mejora continua.
-- Comunicación con perfiles técnicos y no técnicos.
-- Visión conjunta de **tecnología, negocio y operaciones**.
-
----
-
 ## 📬 Contacto
 
 Estoy interesado en proyectos y oportunidades relacionados con:
@@ -566,26 +475,6 @@ Estoy interesado en proyectos y oportunidades relacionados con:
 - **Sistemas RAG**.
 - Automatización.
 - Agentes y asistentes conversacionales.
-- Infraestructura self-hosted.
-- Productos digitales orientados a negocio.
-
-<div align="center">
-
-<h3>Hablemos</h3>
-
-<a href="https://carlosrevert.es">
-  <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:revert.developer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-revert.developer%40gmail.com-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/RevertDeveloper">
-  <img src="https://img.shields.io/badge/GitHub-RevertDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="<a href="https://www.linkedin.com/in/carlos-revert/">">
-  <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 
 <br><br>
 
