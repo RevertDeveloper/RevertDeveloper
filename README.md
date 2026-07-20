@@ -25,7 +25,6 @@ Diseño, desarrollo y despliego productos digitales completos, integrando softwa
 <a href="#-perfil-profesional">Perfil</a> ·
 <a href="#-impacto-y-resultados">Impacto</a> ·
 <a href="#-proyectos-destacados">Proyectos</a> ·
-<a href="#-otros-proyectos">Otros proyectos</a> ·
 <a href="#-capacidades-técnicas">Capacidades</a> ·
 <a href="#-stack-tecnológico">Stack</a> ·
 <a href="#-modelos-y-proveedores-de-inteligencia-artificial">IA</a> ·
@@ -33,7 +32,6 @@ Diseño, desarrollo y despliego productos digitales completos, integrando softwa
 <a href="#-blockchain-y-web3">Blockchain</a> ·
 <a href="#-formación">Formación</a> ·
 <a href="#-idiomas">Idiomas</a> ·
-<a href="#-contacto">Contacto</a>
 </p>
 
 </div>
@@ -476,8 +474,18 @@ Estoy interesado en proyectos y oportunidades relacionados con:
 - Automatización.
 - Agentes y asistentes conversacionales.
 
-<br><br>
-
 **Disponible para oportunidades profesionales y con muchas ganas de trabajar en equipo.**
+
+<p>
+<a href="https://carlosrevert.es">
+  <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/carlos-revert/">
+  <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:revert.developer@gmail.com">
+  <img src="https://img.shields.io/badge/Email-revert.developer%40gmail.com-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
 
 </div>
