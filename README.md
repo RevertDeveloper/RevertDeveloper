@@ -12,25 +12,27 @@ Diseño, desarrollo y despliego productos digitales completos, integrando softwa
 <a href="https://carlosrevert.es">
   <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://github.com/RevertDeveloper">
-  <img src="https://img.shields.io/badge/GitHub-RevertDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://www.linkedin.com/in/carlos-revert/">
+  <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:revert.developer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-revertus%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-revert.developer%40gmail.com-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <img src="https://img.shields.io/badge/Ubicación-España-C60B1E?style=for-the-badge" alt="Ubicación: España">
 </p>
 
-<a href="[URL_DE_LINKEDIN](https://www.linkedin.com/in/carlos-revert/)https://www.linkedin.com/in/carlos-revert/">
-  <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
 <p>
 <a href="#-perfil-profesional">Perfil</a> ·
+<a href="#-impacto-y-resultados">Impacto</a> ·
 <a href="#-proyectos-destacados">Proyectos</a> ·
+<a href="#-otros-proyectos">Otros proyectos</a> ·
 <a href="#-capacidades-técnicas">Capacidades</a> ·
 <a href="#-stack-tecnológico">Stack</a> ·
+<a href="#-modelos-y-proveedores-de-inteligencia-artificial">IA</a> ·
 <a href="#-trayectoria-profesional">Trayectoria</a> ·
+<a href="#-blockchain-y-web3">Blockchain</a> ·
+<a href="#-formación">Formación</a> ·
+<a href="#-idiomas">Idiomas</a> ·
 <a href="#-contacto">Contacto</a>
 </p>
 
@@ -575,13 +577,13 @@ Estoy interesado en proyectos y oportunidades relacionados con:
   <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 <a href="mailto:revert.developer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-revertus%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-revert.developer%40gmail.com-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://github.com/RevertDeveloper">
   <img src="https://img.shields.io/badge/GitHub-RevertDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="[URL_DE_LINKEDIN](https://www.linkedin.com/in/carlos-revert/)">
+<a href="<a href="https://www.linkedin.com/in/carlos-revert/">">
   <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
