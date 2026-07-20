@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="carlos_revert_pagan.png" alt="Logotipo de Carlos Revert Pagán" width="180">
+<img src="carlos_revert_pagan.png" alt="Logotipo de Carlos Revert Pagán">
 
 <h3>Full-Stack Developer especializado en IA aplicada, sistemas RAG e infraestructura self-hosted</h3>
 
@@ -15,17 +15,15 @@ Diseño, desarrollo y despliego productos digitales completos, integrando softwa
 <a href="https://github.com/RevertDeveloper">
   <img src="https://img.shields.io/badge/GitHub-RevertDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="mailto:revertus@protonmail.com">
+<a href="mailto:revert.developer@gmail.com">
   <img src="https://img.shields.io/badge/Email-revertus%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
 </a>
 <img src="https://img.shields.io/badge/Ubicación-España-C60B1E?style=for-the-badge" alt="Ubicación: España">
 </p>
 
-<!-- Añadir cuando esté disponible:
-<a href="URL_DE_LINKEDIN">
+<a href="[URL_DE_LINKEDIN](https://www.linkedin.com/in/carlos-revert/)https://www.linkedin.com/in/carlos-revert/">
   <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
--->
 
 <p>
 <a href="#-perfil-profesional">Perfil</a> ·
@@ -576,18 +574,16 @@ Estoy interesado en proyectos y oportunidades relacionados con:
 <a href="https://carlosrevert.es">
   <img src="https://img.shields.io/badge/Portfolio-carlosrevert.es-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
-<a href="mailto:revertus@protonmail.com">
+<a href="mailto:revert.developer@gmail.com">
   <img src="https://img.shields.io/badge/Email-revertus%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
 </a>
 <a href="https://github.com/RevertDeveloper">
   <img src="https://img.shields.io/badge/GitHub-RevertDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<!-- Añadir cuando esté disponible:
-<a href="URL_DE_LINKEDIN">
+<a href="[URL_DE_LINKEDIN](https://www.linkedin.com/in/carlos-revert/)">
   <img src="https://img.shields.io/badge/LinkedIn-Carlos_Revert_Pagán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
--->
 
 <br><br>
 
